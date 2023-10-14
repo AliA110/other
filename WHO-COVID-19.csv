@@ -1,0 +1,2189 @@
+﻿Date_reported,Country_code,Country,WHO_region,New_cases,Cumulative_cases,New_deaths,Cumulative_deaths
+2020-01-03,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-04,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-05,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-06,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-07,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-08,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-09,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-10,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-11,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-12,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-13,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-14,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-15,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-16,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-17,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-18,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-19,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-20,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-21,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-22,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-23,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-24,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-25,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-26,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-27,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-28,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-29,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-30,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-01-31,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-01,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-02,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-03,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-04,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-05,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-06,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-07,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-08,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-09,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-10,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-11,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-12,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-13,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-14,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-15,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-16,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-17,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-18,IR,Iran (Islamic Republic of),EMRO,0,0,0,0
+2020-02-19,IR,Iran (Islamic Republic of),EMRO,6,6,0,0
+2020-02-20,IR,Iran (Islamic Republic of),EMRO,3,9,2,2
+2020-02-21,IR,Iran (Islamic Republic of),EMRO,13,22,0,2
+2020-02-22,IR,Iran (Islamic Republic of),EMRO,10,32,2,4
+2020-02-23,IR,Iran (Islamic Republic of),EMRO,15,47,1,5
+2020-02-24,IR,Iran (Islamic Republic of),EMRO,4,51,3,8
+2020-02-25,IR,Iran (Islamic Republic of),EMRO,48,99,4,12
+2020-02-26,IR,Iran (Islamic Republic of),EMRO,44,143,3,15
+2020-02-27,IR,Iran (Islamic Republic of),EMRO,0,143,7,22
+2020-02-28,IR,Iran (Islamic Republic of),EMRO,249,392,12,34
+2020-02-29,IR,Iran (Islamic Republic of),EMRO,0,392,9,43
+2020-03-01,IR,Iran (Islamic Republic of),EMRO,205,597,0,43
+2020-03-02,IR,Iran (Islamic Republic of),EMRO,0,597,11,54
+2020-03-03,IR,Iran (Islamic Republic of),EMRO,908,1505,23,77
+2020-03-04,IR,Iran (Islamic Republic of),EMRO,1421,2926,15,92
+2020-03-05,IR,Iran (Islamic Republic of),EMRO,591,3517,15,107
+2020-03-06,IR,Iran (Islamic Republic of),EMRO,1234,4751,17,124
+2020-03-07,IR,Iran (Islamic Republic of),EMRO,1076,5827,21,145
+2020-03-08,IR,Iran (Islamic Republic of),EMRO,743,6570,49,194
+2020-03-09,IR,Iran (Islamic Republic of),EMRO,595,7165,43,237
+2020-03-10,IR,Iran (Islamic Republic of),EMRO,881,8046,54,291
+2020-03-11,IR,Iran (Islamic Republic of),EMRO,958,9004,63,354
+2020-03-12,IR,Iran (Islamic Republic of),EMRO,1075,10079,75,429
+2020-03-13,IR,Iran (Islamic Republic of),EMRO,1289,11368,85,514
+2020-03-14,IR,Iran (Islamic Republic of),EMRO,1365,12733,94,608
+2020-03-15,IR,Iran (Islamic Republic of),EMRO,1254,13987,116,724
+2020-03-16,IR,Iran (Islamic Republic of),EMRO,1008,14995,129,853
+2020-03-17,IR,Iran (Islamic Republic of),EMRO,1178,16173,135,988
+2020-03-18,IR,Iran (Islamic Republic of),EMRO,1192,17365,147,1135
+2020-03-19,IR,Iran (Islamic Republic of),EMRO,1046,18411,149,1284
+2020-03-20,IR,Iran (Islamic Republic of),EMRO,1233,19644,149,1433
+2020-03-21,IR,Iran (Islamic Republic of),EMRO,966,20610,123,1556
+2020-03-22,IR,Iran (Islamic Republic of),EMRO,1028,21638,129,1685
+2020-03-23,IR,Iran (Islamic Republic of),EMRO,1411,23049,127,1812
+2020-03-24,IR,Iran (Islamic Republic of),EMRO,1762,24811,122,1934
+2020-03-25,IR,Iran (Islamic Republic of),EMRO,2206,27017,143,2077
+2020-03-26,IR,Iran (Islamic Republic of),EMRO,2389,29406,157,2234
+2020-03-27,IR,Iran (Islamic Republic of),EMRO,2926,32332,144,2378
+2020-03-28,IR,Iran (Islamic Republic of),EMRO,3076,35408,139,2517
+2020-03-29,IR,Iran (Islamic Republic of),EMRO,2901,38309,123,2640
+2020-03-30,IR,Iran (Islamic Republic of),EMRO,3186,41495,117,2757
+2020-03-31,IR,Iran (Islamic Republic of),EMRO,3111,44606,141,2898
+2020-04-01,IR,Iran (Islamic Republic of),EMRO,2987,47593,138,3036
+2020-04-02,IR,Iran (Islamic Republic of),EMRO,2875,50468,124,3160
+2020-04-03,IR,Iran (Islamic Republic of),EMRO,2715,53183,134,3294
+2020-04-04,IR,Iran (Islamic Republic of),EMRO,2560,55743,158,3452
+2020-04-05,IR,Iran (Islamic Republic of),EMRO,0,55743,0,3452
+2020-04-06,IR,Iran (Islamic Republic of),EMRO,2483,58226,151,3603
+2020-04-07,IR,Iran (Islamic Republic of),EMRO,2274,60500,136,3739
+2020-04-08,IR,Iran (Islamic Republic of),EMRO,2089,62589,133,3872
+2020-04-09,IR,Iran (Islamic Republic of),EMRO,1997,64586,121,3993
+2020-04-10,IR,Iran (Islamic Republic of),EMRO,1634,66220,117,4110
+2020-04-11,IR,Iran (Islamic Republic of),EMRO,1972,68192,122,4232
+2020-04-12,IR,Iran (Islamic Republic of),EMRO,1837,70029,125,4357
+2020-04-13,IR,Iran (Islamic Republic of),EMRO,1657,71686,117,4474
+2020-04-14,IR,Iran (Islamic Republic of),EMRO,1617,73303,111,4585
+2020-04-15,IR,Iran (Islamic Republic of),EMRO,1574,74877,98,4683
+2020-04-16,IR,Iran (Islamic Republic of),EMRO,1512,76389,94,4777
+2020-04-17,IR,Iran (Islamic Republic of),EMRO,1606,77995,92,4869
+2020-04-18,IR,Iran (Islamic Republic of),EMRO,1499,79494,89,4958
+2020-04-19,IR,Iran (Islamic Republic of),EMRO,1374,80868,73,5031
+2020-04-20,IR,Iran (Islamic Republic of),EMRO,1343,82211,87,5118
+2020-04-21,IR,Iran (Islamic Republic of),EMRO,1294,83505,91,5209
+2020-04-22,IR,Iran (Islamic Republic of),EMRO,1297,84802,88,5297
+2020-04-23,IR,Iran (Islamic Republic of),EMRO,1194,85996,94,5391
+2020-04-24,IR,Iran (Islamic Republic of),EMRO,1030,87026,90,5481
+2020-04-25,IR,Iran (Islamic Republic of),EMRO,1168,88194,93,5574
+2020-04-26,IR,Iran (Islamic Republic of),EMRO,1134,89328,76,5650
+2020-04-27,IR,Iran (Islamic Republic of),EMRO,1153,90481,60,5710
+2020-04-28,IR,Iran (Islamic Republic of),EMRO,991,91472,96,5806
+2020-04-29,IR,Iran (Islamic Republic of),EMRO,1112,92584,71,5877
+2020-04-30,IR,Iran (Islamic Republic of),EMRO,1073,93657,80,5957
+2020-05-01,IR,Iran (Islamic Republic of),EMRO,983,94640,71,6028
+2020-05-02,IR,Iran (Islamic Republic of),EMRO,1006,95646,63,6091
+2020-05-03,IR,Iran (Islamic Republic of),EMRO,802,96448,65,6156
+2020-05-04,IR,Iran (Islamic Republic of),EMRO,976,97424,47,6203
+2020-05-05,IR,Iran (Islamic Republic of),EMRO,1223,98647,74,6277
+2020-05-06,IR,Iran (Islamic Republic of),EMRO,1323,99970,63,6340
+2020-05-07,IR,Iran (Islamic Republic of),EMRO,1680,101650,78,6418
+2020-05-08,IR,Iran (Islamic Republic of),EMRO,1485,103135,68,6486
+2020-05-09,IR,Iran (Islamic Republic of),EMRO,1556,104691,55,6541
+2020-05-10,IR,Iran (Islamic Republic of),EMRO,1529,106220,48,6589
+2020-05-11,IR,Iran (Islamic Republic of),EMRO,1383,107603,51,6640
+2020-05-12,IR,Iran (Islamic Republic of),EMRO,1683,109286,45,6685
+2020-05-13,IR,Iran (Islamic Republic of),EMRO,1481,110767,48,6733
+2020-05-14,IR,Iran (Islamic Republic of),EMRO,1958,112725,50,6783
+2020-05-15,IR,Iran (Islamic Republic of),EMRO,1808,114533,71,6854
+2020-05-16,IR,Iran (Islamic Republic of),EMRO,2102,116635,48,6902
+2020-05-17,IR,Iran (Islamic Republic of),EMRO,1757,118392,35,6937
+2020-05-18,IR,Iran (Islamic Republic of),EMRO,1806,120198,51,6988
+2020-05-19,IR,Iran (Islamic Republic of),EMRO,2294,122492,69,7057
+2020-05-20,IR,Iran (Islamic Republic of),EMRO,2111,124603,62,7119
+2020-05-21,IR,Iran (Islamic Republic of),EMRO,2346,126949,64,7183
+2020-05-22,IR,Iran (Islamic Republic of),EMRO,2392,129341,66,7249
+2020-05-23,IR,Iran (Islamic Republic of),EMRO,2311,131652,51,7300
+2020-05-24,IR,Iran (Islamic Republic of),EMRO,1869,133521,59,7359
+2020-05-25,IR,Iran (Islamic Republic of),EMRO,2180,135701,58,7417
+2020-05-26,IR,Iran (Islamic Republic of),EMRO,2023,137724,34,7451
+2020-05-27,IR,Iran (Islamic Republic of),EMRO,1787,139511,57,7508
+2020-05-28,IR,Iran (Islamic Republic of),EMRO,2080,141591,56,7564
+2020-05-29,IR,Iran (Islamic Republic of),EMRO,2258,143849,63,7627
+2020-05-30,IR,Iran (Islamic Republic of),EMRO,2819,146668,50,7677
+2020-05-31,IR,Iran (Islamic Republic of),EMRO,2282,148950,57,7734
+2020-06-01,IR,Iran (Islamic Republic of),EMRO,2516,151466,63,7797
+2020-06-02,IR,Iran (Islamic Republic of),EMRO,2979,154445,81,7878
+2020-06-03,IR,Iran (Islamic Republic of),EMRO,3117,157562,64,7942
+2020-06-04,IR,Iran (Islamic Republic of),EMRO,3134,160696,70,8012
+2020-06-05,IR,Iran (Islamic Republic of),EMRO,3574,164270,59,8071
+2020-06-06,IR,Iran (Islamic Republic of),EMRO,2886,167156,63,8134
+2020-06-07,IR,Iran (Islamic Republic of),EMRO,2269,169425,75,8209
+2020-06-08,IR,Iran (Islamic Republic of),EMRO,2364,171789,72,8281
+2020-06-09,IR,Iran (Islamic Republic of),EMRO,2043,173832,70,8351
+2020-06-10,IR,Iran (Islamic Republic of),EMRO,2095,175927,74,8425
+2020-06-11,IR,Iran (Islamic Republic of),EMRO,2011,177938,81,8506
+2020-06-12,IR,Iran (Islamic Republic of),EMRO,2238,180176,78,8584
+2020-06-13,IR,Iran (Islamic Republic of),EMRO,2369,182545,75,8659
+2020-06-14,IR,Iran (Islamic Republic of),EMRO,2410,184955,71,8730
+2020-06-15,IR,Iran (Islamic Republic of),EMRO,2472,187427,107,8837
+2020-06-16,IR,Iran (Islamic Republic of),EMRO,2449,189876,113,8950
+2020-06-17,IR,Iran (Islamic Republic of),EMRO,2563,192439,115,9065
+2020-06-18,IR,Iran (Islamic Republic of),EMRO,2612,195051,120,9185
+2020-06-19,IR,Iran (Islamic Republic of),EMRO,2596,197647,87,9272
+2020-06-20,IR,Iran (Islamic Republic of),EMRO,2615,200262,120,9392
+2020-06-21,IR,Iran (Islamic Republic of),EMRO,2322,202584,115,9507
+2020-06-22,IR,Iran (Islamic Republic of),EMRO,2368,204952,116,9623
+2020-06-23,IR,Iran (Islamic Republic of),EMRO,2573,207525,119,9742
+2020-06-24,IR,Iran (Islamic Republic of),EMRO,2445,209970,121,9863
+2020-06-25,IR,Iran (Islamic Republic of),EMRO,2531,212501,133,9996
+2020-06-26,IR,Iran (Islamic Republic of),EMRO,2595,215096,134,10130
+2020-06-27,IR,Iran (Islamic Republic of),EMRO,2628,217724,109,10239
+2020-06-28,IR,Iran (Islamic Republic of),EMRO,2456,220180,125,10364
+2020-06-29,IR,Iran (Islamic Republic of),EMRO,2489,222669,144,10508
+2020-06-30,IR,Iran (Islamic Republic of),EMRO,2536,225205,162,10670
+2020-07-01,IR,Iran (Islamic Republic of),EMRO,2457,227662,147,10817
+2020-07-02,IR,Iran (Islamic Republic of),EMRO,2549,230211,141,10958
+2020-07-03,IR,Iran (Islamic Republic of),EMRO,2652,232863,148,11106
+2020-07-04,IR,Iran (Islamic Republic of),EMRO,2566,235429,154,11260
+2020-07-05,IR,Iran (Islamic Republic of),EMRO,2449,237878,148,11408
+2020-07-06,IR,Iran (Islamic Republic of),EMRO,2560,240438,163,11571
+2020-07-07,IR,Iran (Islamic Republic of),EMRO,2613,243051,160,11731
+2020-07-08,IR,Iran (Islamic Republic of),EMRO,2637,245688,200,11931
+2020-07-09,IR,Iran (Islamic Republic of),EMRO,2691,248379,153,12084
+2020-07-10,IR,Iran (Islamic Republic of),EMRO,2079,250458,221,12305
+2020-07-11,IR,Iran (Islamic Republic of),EMRO,2262,252720,142,12447
+2020-07-12,IR,Iran (Islamic Republic of),EMRO,2397,255117,188,12635
+2020-07-13,IR,Iran (Islamic Republic of),EMRO,2186,257303,194,12829
+2020-07-14,IR,Iran (Islamic Republic of),EMRO,2349,259652,203,13032
+2020-07-15,IR,Iran (Islamic Republic of),EMRO,2521,262173,179,13211
+2020-07-16,IR,Iran (Islamic Republic of),EMRO,2388,264561,199,13410
+2020-07-17,IR,Iran (Islamic Republic of),EMRO,2500,267061,198,13608
+2020-07-18,IR,Iran (Islamic Republic of),EMRO,2379,269440,183,13791
+2020-07-19,IR,Iran (Islamic Republic of),EMRO,2166,271606,188,13979
+2020-07-20,IR,Iran (Islamic Republic of),EMRO,2182,273788,209,14188
+2020-07-21,IR,Iran (Islamic Republic of),EMRO,2414,276202,217,14405
+2020-07-22,IR,Iran (Islamic Republic of),EMRO,2625,278827,229,14634
+2020-07-23,IR,Iran (Islamic Republic of),EMRO,2586,281413,219,14853
+2020-07-24,IR,Iran (Islamic Republic of),EMRO,2621,284034,221,15074
+2020-07-25,IR,Iran (Islamic Republic of),EMRO,2489,286523,215,15289
+2020-07-26,IR,Iran (Islamic Republic of),EMRO,2316,288839,195,15484
+2020-07-27,IR,Iran (Islamic Republic of),EMRO,2333,291172,216,15700
+2020-07-28,IR,Iran (Islamic Republic of),EMRO,2434,293606,212,15912
+2020-07-29,IR,Iran (Islamic Republic of),EMRO,2667,296273,235,16147
+2020-07-30,IR,Iran (Islamic Republic of),EMRO,2636,298909,196,16343
+2020-07-31,IR,Iran (Islamic Republic of),EMRO,2621,301530,226,16569
+2020-08-01,IR,Iran (Islamic Republic of),EMRO,2674,304204,197,16766
+2020-08-02,IR,Iran (Islamic Republic of),EMRO,2548,306752,216,16982
+2020-08-03,IR,Iran (Islamic Republic of),EMRO,2685,309437,208,17190
+2020-08-04,IR,Iran (Islamic Republic of),EMRO,2598,312035,215,17405
+2020-08-05,IR,Iran (Islamic Republic of),EMRO,2751,314786,212,17617
+2020-08-06,IR,Iran (Islamic Republic of),EMRO,2697,317483,185,17802
+2020-08-07,IR,Iran (Islamic Republic of),EMRO,2634,320117,174,17976
+2020-08-08,IR,Iran (Islamic Republic of),EMRO,2450,322567,156,18132
+2020-08-09,IR,Iran (Islamic Republic of),EMRO,2125,324692,132,18264
+2020-08-10,IR,Iran (Islamic Republic of),EMRO,2020,326712,163,18427
+2020-08-11,IR,Iran (Islamic Republic of),EMRO,2132,328844,189,18616
+2020-08-12,IR,Iran (Islamic Republic of),EMRO,2345,331189,184,18800
+2020-08-13,IR,Iran (Islamic Republic of),EMRO,2510,333699,188,18988
+2020-08-14,IR,Iran (Islamic Republic of),EMRO,2625,336324,174,19162
+2020-08-15,IR,Iran (Islamic Republic of),EMRO,2501,338825,169,19331
+2020-08-16,IR,Iran (Islamic Republic of),EMRO,2245,341070,161,19492
+2020-08-17,IR,Iran (Islamic Republic of),EMRO,2133,343203,147,19639
+2020-08-18,IR,Iran (Islamic Republic of),EMRO,2247,345450,165,19804
+2020-08-19,IR,Iran (Islamic Republic of),EMRO,2385,347835,168,19972
+2020-08-20,IR,Iran (Islamic Republic of),EMRO,2444,350279,153,20125
+2020-08-21,IR,Iran (Islamic Republic of),EMRO,2279,352558,139,20264
+2020-08-22,IR,Iran (Islamic Republic of),EMRO,2206,354764,112,20376
+2020-08-23,IR,Iran (Islamic Republic of),EMRO,2028,356792,126,20502
+2020-08-24,IR,Iran (Islamic Republic of),EMRO,2113,358905,141,20643
+2020-08-25,IR,Iran (Islamic Republic of),EMRO,2245,361150,133,20776
+2020-08-26,IR,Iran (Islamic Republic of),EMRO,2213,363363,125,20901
+2020-08-27,IR,Iran (Islamic Republic of),EMRO,2243,365606,119,21020
+2020-08-28,IR,Iran (Islamic Republic of),EMRO,2190,367796,117,21137
+2020-08-29,IR,Iran (Islamic Republic of),EMRO,2115,369911,112,21249
+2020-08-30,IR,Iran (Islamic Republic of),EMRO,1905,371816,110,21359
+2020-08-31,IR,Iran (Islamic Republic of),EMRO,1754,373570,103,21462
+2020-09-01,IR,Iran (Islamic Republic of),EMRO,1642,375212,109,21571
+2020-09-02,IR,Iran (Islamic Republic of),EMRO,1682,376894,101,21672
+2020-09-03,IR,Iran (Islamic Republic of),EMRO,1858,378752,125,21797
+2020-09-04,IR,Iran (Islamic Republic of),EMRO,1994,380746,129,21926
+2020-09-05,IR,Iran (Islamic Republic of),EMRO,2026,382772,118,22044
+2020-09-06,IR,Iran (Islamic Republic of),EMRO,1894,384666,110,22154
+2020-09-07,IR,Iran (Islamic Republic of),EMRO,1992,386658,139,22293
+2020-09-08,IR,Iran (Islamic Republic of),EMRO,2152,388810,117,22410
+2020-09-09,IR,Iran (Islamic Republic of),EMRO,2302,391112,132,22542
+2020-09-10,IR,Iran (Islamic Republic of),EMRO,2313,393425,127,22669
+2020-09-11,IR,Iran (Islamic Republic of),EMRO,2063,395488,129,22798
+2020-09-12,IR,Iran (Islamic Republic of),EMRO,2313,397801,115,22913
+2020-09-13,IR,Iran (Islamic Republic of),EMRO,2139,399940,116,23029
+2020-09-14,IR,Iran (Islamic Republic of),EMRO,2089,402029,128,23157
+2020-09-15,IR,Iran (Islamic Republic of),EMRO,2619,404648,156,23313
+2020-09-16,IR,Iran (Islamic Republic of),EMRO,2705,407353,140,23453
+2020-09-17,IR,Iran (Islamic Republic of),EMRO,2981,410334,179,23632
+2020-09-18,IR,Iran (Islamic Republic of),EMRO,2815,413149,176,23808
+2020-09-19,IR,Iran (Islamic Republic of),EMRO,3049,416198,144,23952
+2020-09-20,IR,Iran (Islamic Republic of),EMRO,2845,419043,166,24118
+2020-09-21,IR,Iran (Islamic Republic of),EMRO,3097,422140,183,24301
+2020-09-22,IR,Iran (Islamic Republic of),EMRO,3341,425481,177,24478
+2020-09-23,IR,Iran (Islamic Republic of),EMRO,3712,429193,178,24656
+2020-09-24,IR,Iran (Islamic Republic of),EMRO,3605,432798,184,24840
+2020-09-25,IR,Iran (Islamic Republic of),EMRO,3521,436319,175,25015
+2020-09-26,IR,Iran (Islamic Republic of),EMRO,3563,439882,207,25222
+2020-09-27,IR,Iran (Islamic Republic of),EMRO,3204,443086,172,25394
+2020-09-28,IR,Iran (Islamic Republic of),EMRO,3362,446448,195,25589
+2020-09-29,IR,Iran (Islamic Republic of),EMRO,3512,449960,190,25779
+2020-09-30,IR,Iran (Islamic Republic of),EMRO,3677,453637,207,25986
+2020-10-01,IR,Iran (Islamic Republic of),EMRO,3582,457219,183,26169
+2020-10-02,IR,Iran (Islamic Republic of),EMRO,3825,461044,211,26380
+2020-10-03,IR,Iran (Islamic Republic of),EMRO,3552,464596,187,26567
+2020-10-04,IR,Iran (Islamic Republic of),EMRO,3523,468119,179,26746
+2020-10-05,IR,Iran (Islamic Republic of),EMRO,3653,471772,211,26957
+2020-10-06,IR,Iran (Islamic Republic of),EMRO,3902,475674,235,27192
+2020-10-07,IR,Iran (Islamic Republic of),EMRO,4151,479825,227,27419
+2020-10-08,IR,Iran (Islamic Republic of),EMRO,4019,483844,239,27658
+2020-10-09,IR,Iran (Islamic Republic of),EMRO,4392,488236,230,27888
+2020-10-10,IR,Iran (Islamic Republic of),EMRO,4142,492378,210,28098
+2020-10-11,IR,Iran (Islamic Republic of),EMRO,3875,496253,195,28293
+2020-10-12,IR,Iran (Islamic Republic of),EMRO,3822,500075,251,28544
+2020-10-13,IR,Iran (Islamic Republic of),EMRO,4206,504281,272,28816
+2020-10-14,IR,Iran (Islamic Republic of),EMRO,4108,508389,254,29070
+2020-10-15,IR,Iran (Islamic Republic of),EMRO,4830,513219,279,29349
+2020-10-16,IR,Iran (Islamic Republic of),EMRO,4616,517835,256,29605
+2020-10-17,IR,Iran (Islamic Republic of),EMRO,4552,522387,265,29870
+2020-10-18,IR,Iran (Islamic Republic of),EMRO,4103,526490,253,30123
+2020-10-19,IR,Iran (Islamic Republic of),EMRO,3890,530380,252,30375
+2020-10-20,IR,Iran (Islamic Republic of),EMRO,4251,534631,337,30712
+2020-10-21,IR,Iran (Islamic Republic of),EMRO,5039,539670,322,31034
+2020-10-22,IR,Iran (Islamic Republic of),EMRO,5616,545286,312,31346
+2020-10-23,IR,Iran (Islamic Republic of),EMRO,5471,550757,304,31650
+2020-10-24,IR,Iran (Islamic Republic of),EMRO,6134,556891,335,31985
+2020-10-25,IR,Iran (Islamic Republic of),EMRO,5814,562705,335,32320
+2020-10-26,IR,Iran (Islamic Republic of),EMRO,6191,568896,296,32616
+2020-10-27,IR,Iran (Islamic Republic of),EMRO,5960,574856,337,32953
+2020-10-28,IR,Iran (Islamic Republic of),EMRO,6968,581824,346,33299
+2020-10-29,IR,Iran (Islamic Republic of),EMRO,6824,588648,415,33714
+2020-10-30,IR,Iran (Islamic Republic of),EMRO,8293,596941,399,34113
+2020-10-31,IR,Iran (Islamic Republic of),EMRO,8011,604952,365,34478
+2020-11-01,IR,Iran (Islamic Republic of),EMRO,7820,612772,386,34864
+2020-11-02,IR,Iran (Islamic Republic of),EMRO,7719,620491,434,35298
+2020-11-03,IR,Iran (Islamic Republic of),EMRO,8289,628780,440,35738
+2020-11-04,IR,Iran (Islamic Republic of),EMRO,8932,637712,422,36160
+2020-11-05,IR,Iran (Islamic Republic of),EMRO,8452,646164,419,36579
+2020-11-06,IR,Iran (Islamic Republic of),EMRO,8772,654936,406,36985
+2020-11-07,IR,Iran (Islamic Republic of),EMRO,8864,663800,424,37409
+2020-11-08,IR,Iran (Islamic Republic of),EMRO,9450,673250,423,37832
+2020-11-09,IR,Iran (Islamic Republic of),EMRO,9236,682486,459,38291
+2020-11-10,IR,Iran (Islamic Republic of),EMRO,10463,692949,458,38749
+2020-11-11,IR,Iran (Islamic Republic of),EMRO,10339,703288,453,39202
+2020-11-12,IR,Iran (Islamic Republic of),EMRO,11780,715068,462,39664
+2020-11-13,IR,Iran (Islamic Republic of),EMRO,11517,726585,457,40121
+2020-11-14,IR,Iran (Islamic Republic of),EMRO,11737,738322,461,40582
+2020-11-15,IR,Iran (Islamic Republic of),EMRO,11203,749525,452,41034
+2020-11-16,IR,Iran (Islamic Republic of),EMRO,12543,762068,459,41493
+2020-11-17,IR,Iran (Islamic Republic of),EMRO,13053,775121,486,41979
+2020-11-18,IR,Iran (Islamic Republic of),EMRO,13352,788473,482,42461
+2020-11-19,IR,Iran (Islamic Republic of),EMRO,13421,801894,480,42941
+2020-11-20,IR,Iran (Islamic Republic of),EMRO,13223,815117,476,43417
+2020-11-21,IR,Iran (Islamic Republic of),EMRO,13260,828377,479,43896
+2020-11-22,IR,Iran (Islamic Republic of),EMRO,12931,841308,431,44327
+2020-11-23,IR,Iran (Islamic Republic of),EMRO,13053,854361,475,44802
+2020-11-24,IR,Iran (Islamic Republic of),EMRO,12460,866821,453,45255
+2020-11-25,IR,Iran (Islamic Republic of),EMRO,13721,880542,483,45738
+2020-11-26,IR,Iran (Islamic Republic of),EMRO,13843,894385,469,46207
+2020-11-27,IR,Iran (Islamic Republic of),EMRO,13961,908346,482,46689
+2020-11-28,IR,Iran (Islamic Republic of),EMRO,14051,922397,406,47095
+2020-11-29,IR,Iran (Islamic Republic of),EMRO,13402,935799,391,47486
+2020-11-30,IR,Iran (Islamic Republic of),EMRO,12950,948749,389,47875
+2020-12-01,IR,Iran (Islamic Republic of),EMRO,13321,962070,371,48246
+2020-12-02,IR,Iran (Islamic Republic of),EMRO,13881,975951,382,48628
+2020-12-03,IR,Iran (Islamic Republic of),EMRO,13621,989572,362,48990
+2020-12-04,IR,Iran (Islamic Republic of),EMRO,13922,1003494,358,49348
+2020-12-05,IR,Iran (Islamic Republic of),EMRO,13341,1016835,347,49695
+2020-12-06,IR,Iran (Islamic Republic of),EMRO,12151,1028986,321,50016
+2020-12-07,IR,Iran (Islamic Republic of),EMRO,11561,1040547,294,50310
+2020-12-08,IR,Iran (Islamic Republic of),EMRO,10827,1051374,284,50594
+2020-12-09,IR,Iran (Islamic Republic of),EMRO,11023,1062397,323,50917
+2020-12-10,IR,Iran (Islamic Republic of),EMRO,10223,1072620,295,51212
+2020-12-11,IR,Iran (Islamic Republic of),EMRO,10403,1083023,284,51496
+2020-12-12,IR,Iran (Islamic Republic of),EMRO,9594,1092617,232,51728
+2020-12-13,IR,Iran (Islamic Republic of),EMRO,8201,1100818,221,51949
+2020-12-14,IR,Iran (Islamic Republic of),EMRO,7451,1108269,247,52196
+2020-12-15,IR,Iran (Islamic Republic of),EMRO,7501,1115770,251,52447
+2020-12-16,IR,Iran (Islamic Republic of),EMRO,7704,1123474,223,52670
+2020-12-17,IR,Iran (Islamic Republic of),EMRO,7603,1131077,213,52883
+2020-12-18,IR,Iran (Islamic Republic of),EMRO,7453,1138530,212,53095
+2020-12-19,IR,Iran (Islamic Republic of),EMRO,7121,1145651,178,53273
+2020-12-20,IR,Iran (Islamic Republic of),EMRO,6421,1152072,175,53448
+2020-12-21,IR,Iran (Islamic Republic of),EMRO,6312,1158384,177,53625
+2020-12-22,IR,Iran (Islamic Republic of),EMRO,6151,1164535,191,53816
+2020-12-23,IR,Iran (Islamic Republic of),EMRO,6208,1170743,187,54003
+2020-12-24,IR,Iran (Islamic Republic of),EMRO,6261,1177004,153,54156
+2020-12-25,IR,Iran (Islamic Republic of),EMRO,6178,1183182,152,54308
+2020-12-26,IR,Iran (Islamic Republic of),EMRO,6021,1189203,132,54440
+2020-12-27,IR,Iran (Islamic Republic of),EMRO,5760,1194963,134,54574
+2020-12-28,IR,Iran (Islamic Republic of),EMRO,5502,1200465,119,54693
+2020-12-29,IR,Iran (Islamic Republic of),EMRO,5908,1206373,121,54814
+2020-12-30,IR,Iran (Islamic Republic of),EMRO,6108,1212481,132,54946
+2020-12-31,IR,Iran (Islamic Republic of),EMRO,6272,1218753,149,55095
+2021-01-01,IR,Iran (Islamic Republic of),EMRO,6390,1225143,128,55223
+2021-01-02,IR,Iran (Islamic Republic of),EMRO,6286,1231429,114,55337
+2021-01-03,IR,Iran (Islamic Republic of),EMRO,6045,1237474,101,55438
+2021-01-04,IR,Iran (Islamic Republic of),EMRO,5960,1243434,102,55540
+2021-01-05,IR,Iran (Islamic Republic of),EMRO,6073,1249507,110,55650
+2021-01-06,IR,Iran (Islamic Republic of),EMRO,6113,1255620,98,55748
+2021-01-07,IR,Iran (Islamic Republic of),EMRO,6283,1261903,82,55830
+2021-01-08,IR,Iran (Islamic Republic of),EMRO,6360,1268263,103,55933
+2021-01-09,IR,Iran (Islamic Republic of),EMRO,6251,1274514,85,56018
+2021-01-10,IR,Iran (Islamic Republic of),EMRO,5924,1280438,82,56100
+2021-01-11,IR,Iran (Islamic Republic of),EMRO,5968,1286406,71,56171
+2021-01-12,IR,Iran (Islamic Republic of),EMRO,6208,1292614,91,56262
+2021-01-13,IR,Iran (Islamic Republic of),EMRO,6408,1299022,98,56360
+2021-01-14,IR,Iran (Islamic Republic of),EMRO,6317,1305339,97,56457
+2021-01-15,IR,Iran (Islamic Republic of),EMRO,6471,1311810,81,56538
+2021-01-16,IR,Iran (Islamic Republic of),EMRO,6485,1318295,83,56621
+2021-01-17,IR,Iran (Islamic Republic of),EMRO,6100,1324395,96,56717
+2021-01-18,IR,Iran (Islamic Republic of),EMRO,6016,1330411,86,56803
+2021-01-19,IR,Iran (Islamic Republic of),EMRO,5806,1336217,83,56886
+2021-01-20,IR,Iran (Islamic Republic of),EMRO,5917,1342134,87,56973
+2021-01-21,IR,Iran (Islamic Republic of),EMRO,6182,1348316,84,57057
+2021-01-22,IR,Iran (Islamic Republic of),EMRO,6204,1354520,93,57150
+2021-01-23,IR,Iran (Islamic Republic of),EMRO,6305,1360825,75,57225
+2021-01-24,IR,Iran (Islamic Republic of),EMRO,6207,1367032,69,57294
+2021-01-25,IR,Iran (Islamic Republic of),EMRO,5945,1372977,89,57383
+2021-01-26,IR,Iran (Islamic Republic of),EMRO,6309,1379286,98,57481
+2021-01-27,IR,Iran (Islamic Republic of),EMRO,6420,1385706,79,57560
+2021-01-28,IR,Iran (Islamic Republic of),EMRO,6608,1392314,91,57651
+2021-01-29,IR,Iran (Islamic Republic of),EMRO,6527,1398841,85,57736
+2021-01-30,IR,Iran (Islamic Republic of),EMRO,6573,1405414,71,57807
+2021-01-31,IR,Iran (Islamic Republic of),EMRO,6317,1411731,82,57889
+2021-02-01,IR,Iran (Islamic Republic of),EMRO,6268,1417999,70,57959
+2021-02-02,IR,Iran (Islamic Republic of),EMRO,6597,1424596,79,58038
+2021-02-03,IR,Iran (Islamic Republic of),EMRO,6820,1431416,72,58110
+2021-02-04,IR,Iran (Islamic Republic of),EMRO,6870,1438286,79,58189
+2021-02-05,IR,Iran (Islamic Republic of),EMRO,7040,1445326,67,58256
+2021-02-06,IR,Iran (Islamic Republic of),EMRO,7061,1452387,80,58336
+2021-02-07,IR,Iran (Islamic Republic of),EMRO,6983,1459370,76,58412
+2021-02-08,IR,Iran (Islamic Republic of),EMRO,7065,1466435,57,58469
+2021-02-09,IR,Iran (Islamic Republic of),EMRO,7321,1473756,67,58536
+2021-02-10,IR,Iran (Islamic Republic of),EMRO,7640,1481396,89,58625
+2021-02-11,IR,Iran (Islamic Republic of),EMRO,7585,1488981,61,58686
+2021-02-12,IR,Iran (Islamic Republic of),EMRO,7474,1496455,65,58751
+2021-02-13,IR,Iran (Islamic Republic of),EMRO,7298,1503753,58,58809
+2021-02-14,IR,Iran (Islamic Republic of),EMRO,7120,1510873,74,58883
+2021-02-15,IR,Iran (Islamic Republic of),EMRO,7390,1518263,62,58945
+2021-02-16,IR,Iran (Islamic Republic of),EMRO,7760,1526023,83,59028
+2021-02-17,IR,Iran (Islamic Republic of),EMRO,8011,1534034,89,59117
+2021-02-18,IR,Iran (Islamic Republic of),EMRO,8042,1542076,67,59184
+2021-02-19,IR,Iran (Islamic Republic of),EMRO,8066,1550142,80,59264
+2021-02-20,IR,Iran (Islamic Republic of),EMRO,8017,1558159,77,59341
+2021-02-21,IR,Iran (Islamic Republic of),EMRO,7922,1566081,68,59409
+2021-02-22,IR,Iran (Islamic Republic of),EMRO,7931,1574012,74,59483
+2021-02-23,IR,Iran (Islamic Republic of),EMRO,8263,1582275,89,59572
+2021-02-24,IR,Iran (Islamic Republic of),EMRO,8330,1590605,91,59663
+2021-02-25,IR,Iran (Islamic Republic of),EMRO,8270,1598875,73,59736
+2021-02-26,IR,Iran (Islamic Republic of),EMRO,8206,1607081,94,59830
+2021-02-27,IR,Iran (Islamic Republic of),EMRO,8103,1615184,69,59899
+2021-02-28,IR,Iran (Islamic Republic of),EMRO,7975,1623159,81,59980
+2021-03-01,IR,Iran (Islamic Republic of),EMRO,8010,1631169,93,60073
+2021-03-02,IR,Iran (Islamic Republic of),EMRO,8510,1639679,108,60181
+2021-03-03,IR,Iran (Islamic Republic of),EMRO,8495,1648174,86,60267
+2021-03-04,IR,Iran (Islamic Republic of),EMRO,8525,1656699,86,60353
+2021-03-05,IR,Iran (Islamic Republic of),EMRO,8404,1665103,78,60431
+2021-03-06,IR,Iran (Islamic Republic of),EMRO,8367,1673470,81,60512
+2021-03-07,IR,Iran (Islamic Republic of),EMRO,8212,1681682,82,60594
+2021-03-08,IR,Iran (Islamic Republic of),EMRO,8010,1689692,93,60687
+2021-03-09,IR,Iran (Islamic Republic of),EMRO,8313,1698005,99,60786
+2021-03-10,IR,Iran (Islamic Republic of),EMRO,8554,1706559,81,60867
+2021-03-11,IR,Iran (Islamic Republic of),EMRO,8603,1715162,61,60928
+2021-03-12,IR,Iran (Islamic Republic of),EMRO,8308,1723470,88,61016
+2021-03-13,IR,Iran (Islamic Republic of),EMRO,8088,1731558,53,61069
+2021-03-14,IR,Iran (Islamic Republic of),EMRO,7802,1739360,73,61142
+2021-03-15,IR,Iran (Islamic Republic of),EMRO,7593,1746953,88,61230
+2021-03-16,IR,Iran (Islamic Republic of),EMRO,7980,1754933,100,61330
+2021-03-17,IR,Iran (Islamic Republic of),EMRO,8380,1763313,97,61427
+2021-03-18,IR,Iran (Islamic Republic of),EMRO,7802,1771115,65,61492
+2021-03-19,IR,Iran (Islamic Republic of),EMRO,7530,1778645,89,61581
+2021-03-20,IR,Iran (Islamic Republic of),EMRO,7620,1786265,68,61649
+2021-03-21,IR,Iran (Islamic Republic of),EMRO,7540,1793805,75,61724
+2021-03-22,IR,Iran (Islamic Republic of),EMRO,7260,1801065,73,61797
+2021-03-23,IR,Iran (Islamic Republic of),EMRO,7357,1808422,80,61877
+2021-03-24,IR,Iran (Islamic Republic of),EMRO,7290,1815712,74,61951
+2021-03-25,IR,Iran (Islamic Republic of),EMRO,7605,1823317,94,62045
+2021-03-26,IR,Iran (Islamic Republic of),EMRO,7506,1830823,97,62142
+2021-03-27,IR,Iran (Islamic Republic of),EMRO,7980,1838803,81,62223
+2021-03-28,IR,Iran (Islamic Republic of),EMRO,8120,1846923,85,62308
+2021-03-29,IR,Iran (Islamic Republic of),EMRO,8751,1855674,89,62397
+2021-03-30,IR,Iran (Islamic Republic of),EMRO,9310,1864984,81,62478
+2021-03-31,IR,Iran (Islamic Republic of),EMRO,10250,1875234,91,62569
+2021-04-01,IR,Iran (Islamic Republic of),EMRO,10330,1885564,96,62665
+2021-04-02,IR,Iran (Islamic Republic of),EMRO,11750,1897314,94,62759
+2021-04-03,IR,Iran (Islamic Republic of),EMRO,11660,1908974,117,62876
+2021-04-04,IR,Iran (Islamic Republic of),EMRO,11420,1920394,123,62999
+2021-04-05,IR,Iran (Islamic Republic of),EMRO,11680,1932074,161,63160
+2021-04-06,IR,Iran (Islamic Republic of),EMRO,13890,1945964,172,63332
+2021-04-07,IR,Iran (Islamic Republic of),EMRO,17430,1963394,174,63506
+2021-04-08,IR,Iran (Islamic Republic of),EMRO,20954,1984348,193,63699
+2021-04-09,IR,Iran (Islamic Republic of),EMRO,22586,2006934,185,63884
+2021-04-10,IR,Iran (Islamic Republic of),EMRO,22478,2029412,155,64039
+2021-04-11,IR,Iran (Islamic Republic of),EMRO,19666,2049078,193,64232
+2021-04-12,IR,Iran (Islamic Republic of),EMRO,21063,2070141,258,64490
+2021-04-13,IR,Iran (Islamic Republic of),EMRO,23311,2093452,274,64764
+2021-04-14,IR,Iran (Islamic Republic of),EMRO,24760,2118212,291,65055
+2021-04-15,IR,Iran (Islamic Republic of),EMRO,25582,2143794,304,65359
+2021-04-16,IR,Iran (Islamic Republic of),EMRO,25078,2168872,321,65680
+2021-04-17,IR,Iran (Islamic Republic of),EMRO,25261,2194133,328,66008
+2021-04-18,IR,Iran (Islamic Republic of),EMRO,21312,2215445,319,66327
+2021-04-19,IR,Iran (Islamic Republic of),EMRO,21644,2237089,405,66732
+2021-04-20,IR,Iran (Islamic Republic of),EMRO,24346,2261435,398,67130
+2021-04-21,IR,Iran (Islamic Republic of),EMRO,25492,2286927,395,67525
+2021-04-22,IR,Iran (Islamic Republic of),EMRO,24886,2311813,388,67913
+2021-04-23,IR,Iran (Islamic Republic of),EMRO,24092,2335905,453,68366
+2021-04-24,IR,Iran (Islamic Republic of),EMRO,22904,2358809,380,68746
+2021-04-25,IR,Iran (Islamic Republic of),EMRO,18230,2377039,374,69120
+2021-04-26,IR,Iran (Islamic Republic of),EMRO,19165,2396204,454,69574
+2021-04-27,IR,Iran (Islamic Republic of),EMRO,21026,2417230,496,70070
+2021-04-28,IR,Iran (Islamic Republic of),EMRO,20963,2438193,462,70532
+2021-04-29,IR,Iran (Islamic Republic of),EMRO,21713,2459906,434,70966
+2021-04-30,IR,Iran (Islamic Republic of),EMRO,19899,2479805,385,71351
+2021-05-01,IR,Iran (Islamic Republic of),EMRO,19272,2499077,407,71758
+2021-05-02,IR,Iran (Islamic Republic of),EMRO,17080,2516157,332,72090
+2021-05-03,IR,Iran (Islamic Republic of),EMRO,18698,2534855,394,72484
+2021-05-04,IR,Iran (Islamic Republic of),EMRO,20732,2555587,391,72875
+2021-05-05,IR,Iran (Islamic Republic of),EMRO,20150,2575737,344,73219
+2021-05-06,IR,Iran (Islamic Republic of),EMRO,15872,2591609,349,73568
+2021-05-07,IR,Iran (Islamic Republic of),EMRO,18409,2610018,338,73906
+2021-05-08,IR,Iran (Islamic Republic of),EMRO,17076,2627094,335,74241
+2021-05-09,IR,Iran (Islamic Republic of),EMRO,13576,2640670,283,74524
+2021-05-10,IR,Iran (Islamic Republic of),EMRO,14141,2654811,386,74910
+2021-05-11,IR,Iran (Islamic Republic of),EMRO,18408,2673219,351,75261
+2021-05-12,IR,Iran (Islamic Republic of),EMRO,18133,2691352,307,75568
+2021-05-13,IR,Iran (Islamic Republic of),EMRO,16409,2707761,366,75934
+2021-05-14,IR,Iran (Islamic Republic of),EMRO,14246,2722007,297,76231
+2021-05-15,IR,Iran (Islamic Republic of),EMRO,10145,2732152,202,76433
+2021-05-16,IR,Iran (Islamic Republic of),EMRO,7723,2739875,200,76633
+2021-05-17,IR,Iran (Islamic Republic of),EMRO,11291,2751166,303,76936
+2021-05-18,IR,Iran (Islamic Republic of),EMRO,14319,2765485,286,77222
+2021-05-19,IR,Iran (Islamic Republic of),EMRO,13930,2779415,310,77532
+2021-05-20,IR,Iran (Islamic Republic of),EMRO,12789,2792204,233,77765
+2021-05-21,IR,Iran (Islamic Republic of),EMRO,12428,2804632,229,77994
+2021-05-22,IR,Iran (Islamic Republic of),EMRO,11250,2815882,200,78194
+2021-05-23,IR,Iran (Islamic Republic of),EMRO,8005,2823887,187,78381
+2021-05-24,IR,Iran (Islamic Republic of),EMRO,8631,2832518,216,78597
+2021-05-25,IR,Iran (Islamic Republic of),EMRO,11005,2843523,251,78848
+2021-05-26,IR,Iran (Islamic Republic of),EMRO,11873,2855396,208,79056
+2021-05-27,IR,Iran (Islamic Republic of),EMRO,10468,2865864,163,79219
+2021-05-28,IR,Iran (Islamic Republic of),EMRO,9994,2875858,165,79384
+2021-05-29,IR,Iran (Islamic Republic of),EMRO,10253,2886111,184,79568
+2021-05-30,IR,Iran (Islamic Republic of),EMRO,7107,2893218,173,79741
+2021-05-31,IR,Iran (Islamic Republic of),EMRO,8876,2902094,198,79939
+2021-06-01,IR,Iran (Islamic Republic of),EMRO,11042,2913136,217,80156
+2021-06-02,IR,Iran (Islamic Republic of),EMRO,10687,2923823,171,80327
+2021-06-03,IR,Iran (Islamic Republic of),EMRO,11620,2935443,161,80488
+2021-06-04,IR,Iran (Islamic Republic of),EMRO,9657,2945100,170,80658
+2021-06-05,IR,Iran (Islamic Republic of),EMRO,9209,2954309,155,80813
+2021-06-06,IR,Iran (Islamic Republic of),EMRO,6442,2960751,128,80941
+2021-06-07,IR,Iran (Islamic Republic of),EMRO,5612,2966363,122,81063
+2021-06-08,IR,Iran (Islamic Republic of),EMRO,4907,2971270,120,81183
+2021-06-09,IR,Iran (Islamic Republic of),EMRO,8846,2980116,179,81362
+2021-06-10,IR,Iran (Islamic Republic of),EMRO,10598,2990714,157,81519
+2021-06-11,IR,Iran (Islamic Republic of),EMRO,12398,3003112,153,81672
+2021-06-12,IR,Iran (Islamic Republic of),EMRO,9966,3013078,124,81796
+2021-06-13,IR,Iran (Islamic Republic of),EMRO,7444,3020522,115,81911
+2021-06-14,IR,Iran (Islamic Republic of),EMRO,8195,3028717,187,82098
+2021-06-15,IR,Iran (Islamic Republic of),EMRO,10715,3039432,119,82217
+2021-06-16,IR,Iran (Islamic Republic of),EMRO,10216,3049648,134,82351
+2021-06-17,IR,Iran (Islamic Republic of),EMRO,10487,3060135,129,82480
+2021-06-18,IR,Iran (Islamic Republic of),EMRO,10291,3070426,139,82619
+2021-06-19,IR,Iran (Islamic Republic of),EMRO,10100,3080526,127,82746
+2021-06-20,IR,Iran (Islamic Republic of),EMRO,6448,3086974,108,82854
+2021-06-21,IR,Iran (Islamic Republic of),EMRO,8161,3095135,111,82965
+2021-06-22,IR,Iran (Islamic Republic of),EMRO,10485,3105620,136,83101
+2021-06-23,IR,Iran (Islamic Republic of),EMRO,11716,3117336,116,83217
+2021-06-24,IR,Iran (Islamic Republic of),EMRO,11059,3128395,112,83329
+2021-06-25,IR,Iran (Islamic Republic of),EMRO,11734,3140129,144,83473
+2021-06-26,IR,Iran (Islamic Republic of),EMRO,10820,3150949,115,83588
+2021-06-27,IR,Iran (Islamic Republic of),EMRO,7034,3157983,123,83711
+2021-06-28,IR,Iran (Islamic Republic of),EMRO,9758,3167741,134,83845
+2021-06-29,IR,Iran (Islamic Republic of),EMRO,12351,3180092,140,83985
+2021-06-30,IR,Iran (Islamic Republic of),EMRO,12717,3192809,142,84127
+2021-07-01,IR,Iran (Islamic Republic of),EMRO,11748,3204557,137,84264
+2021-07-02,IR,Iran (Islamic Republic of),EMRO,14303,3218860,125,84389
+2021-07-03,IR,Iran (Islamic Republic of),EMRO,13836,3232696,127,84516
+2021-07-04,IR,Iran (Islamic Republic of),EMRO,8341,3241037,111,84627
+2021-07-05,IR,Iran (Islamic Republic of),EMRO,13781,3254818,165,84792
+2021-07-06,IR,Iran (Islamic Republic of),EMRO,16025,3270843,157,84949
+2021-07-07,IR,Iran (Islamic Republic of),EMRO,16080,3286923,146,85095
+2021-07-08,IR,Iran (Islamic Republic of),EMRO,17212,3304135,166,85261
+2021-07-09,IR,Iran (Islamic Republic of),EMRO,23391,3327526,136,85397
+2021-07-10,IR,Iran (Islamic Republic of),EMRO,16596,3344122,146,85543
+2021-07-11,IR,Iran (Islamic Republic of),EMRO,11664,3355786,151,85694
+2021-07-12,IR,Iran (Islamic Republic of),EMRO,17664,3373450,165,85859
+2021-07-13,IR,Iran (Islamic Republic of),EMRO,20829,3394279,182,86041
+2021-07-14,IR,Iran (Islamic Republic of),EMRO,22750,3417029,166,86207
+2021-07-15,IR,Iran (Islamic Republic of),EMRO,23371,3440400,184,86391
+2021-07-16,IR,Iran (Islamic Republic of),EMRO,23655,3464055,201,86592
+2021-07-17,IR,Iran (Islamic Republic of),EMRO,21885,3485940,199,86791
+2021-07-18,IR,Iran (Islamic Republic of),EMRO,15139,3501079,175,86966
+2021-07-19,IR,Iran (Islamic Republic of),EMRO,22184,3523263,195,87161
+2021-07-20,IR,Iran (Islamic Republic of),EMRO,25441,3548704,213,87374
+2021-07-21,IR,Iran (Islamic Republic of),EMRO,27444,3576148,250,87624
+2021-07-22,IR,Iran (Islamic Republic of),EMRO,27379,3603527,213,87837
+2021-07-23,IR,Iran (Islamic Republic of),EMRO,20313,3623840,226,88063
+2021-07-24,IR,Iran (Islamic Republic of),EMRO,21814,3645654,210,88273
+2021-07-25,IR,Iran (Islamic Republic of),EMRO,18632,3664286,259,88532
+2021-07-26,IR,Iran (Islamic Republic of),EMRO,27146,3691432,268,88800
+2021-07-27,IR,Iran (Islamic Republic of),EMRO,31814,3723246,322,89122
+2021-07-28,IR,Iran (Islamic Republic of),EMRO,34951,3758197,357,89479
+2021-07-29,IR,Iran (Islamic Republic of),EMRO,33817,3792014,303,89782
+2021-07-30,IR,Iran (Islamic Republic of),EMRO,34433,3826447,292,90074
+2021-07-31,IR,Iran (Islamic Republic of),EMRO,24715,3851162,270,90344
+2021-08-01,IR,Iran (Islamic Republic of),EMRO,19846,3871008,286,90630
+2021-08-02,IR,Iran (Islamic Republic of),EMRO,32511,3903519,366,90996
+2021-08-03,IR,Iran (Islamic Republic of),EMRO,37189,3940708,411,91407
+2021-08-04,IR,Iran (Islamic Republic of),EMRO,39019,3979727,378,91785
+2021-08-05,IR,Iran (Islamic Republic of),EMRO,39357,4019084,409,92194
+2021-08-06,IR,Iran (Islamic Republic of),EMRO,38674,4057758,434,92628
+2021-08-07,IR,Iran (Islamic Republic of),EMRO,34913,4092671,458,93086
+2021-08-08,IR,Iran (Islamic Republic of),EMRO,26439,4119110,387,93473
+2021-08-09,IR,Iran (Islamic Republic of),EMRO,39619,4158729,542,94015
+2021-08-10,IR,Iran (Islamic Republic of),EMRO,40808,4199537,588,94603
+2021-08-11,IR,Iran (Islamic Republic of),EMRO,39139,4238676,508,95111
+2021-08-12,IR,Iran (Islamic Republic of),EMRO,42541,4281217,536,95647
+2021-08-13,IR,Iran (Islamic Republic of),EMRO,39049,4320266,568,96215
+2021-08-14,IR,Iran (Islamic Republic of),EMRO,39119,4359385,527,96742
+2021-08-15,IR,Iran (Islamic Republic of),EMRO,29700,4389085,466,97208
+2021-08-16,IR,Iran (Islamic Republic of),EMRO,36736,4425821,620,97828
+2021-08-17,IR,Iran (Islamic Republic of),EMRO,41194,4467015,655,98483
+2021-08-18,IR,Iran (Islamic Republic of),EMRO,50228,4517243,625,99108
+2021-08-19,IR,Iran (Islamic Republic of),EMRO,39174,4556417,583,99691
+2021-08-20,IR,Iran (Islamic Republic of),EMRO,31266,4587683,564,100255
+2021-08-21,IR,Iran (Islamic Republic of),EMRO,28833,4616516,555,100810
+2021-08-22,IR,Iran (Islamic Republic of),EMRO,24179,4640695,544,101354
+2021-08-23,IR,Iran (Islamic Republic of),EMRO,36419,4677114,684,102038
+2021-08-24,IR,Iran (Islamic Republic of),EMRO,38657,4715771,610,102648
+2021-08-25,IR,Iran (Islamic Republic of),EMRO,40623,4756394,709,103357
+2021-08-26,IR,Iran (Islamic Republic of),EMRO,39983,4796377,665,104022
+2021-08-27,IR,Iran (Islamic Republic of),EMRO,36758,4833135,694,104716
+2021-08-28,IR,Iran (Islamic Republic of),EMRO,36279,4869414,571,105287
+2021-08-29,IR,Iran (Islamic Republic of),EMRO,26034,4895448,614,105901
+2021-08-30,IR,Iran (Islamic Republic of),EMRO,31516,4926964,581,106482
+2021-08-31,IR,Iran (Islamic Republic of),EMRO,33780,4960744,669,107151
+2021-09-01,IR,Iran (Islamic Republic of),EMRO,31319,4992063,643,107794
+2021-09-02,IR,Iran (Islamic Republic of),EMRO,33170,5025233,599,108393
+2021-09-03,IR,Iran (Islamic Republic of),EMRO,30279,5055512,595,108988
+2021-09-04,IR,Iran (Islamic Republic of),EMRO,27621,5083133,561,109549
+2021-09-05,IR,Iran (Islamic Republic of),EMRO,20404,5103537,515,110064
+2021-09-06,IR,Iran (Islamic Republic of),EMRO,25870,5129407,610,110674
+2021-09-07,IR,Iran (Islamic Republic of),EMRO,27579,5156986,583,111257
+2021-09-08,IR,Iran (Islamic Republic of),EMRO,27138,5184124,635,111892
+2021-09-09,IR,Iran (Islamic Republic of),EMRO,26854,5210978,538,112430
+2021-09-10,IR,Iran (Islamic Republic of),EMRO,26821,5237799,505,112935
+2021-09-11,IR,Iran (Islamic Republic of),EMRO,21114,5258913,445,113380
+2021-09-12,IR,Iran (Islamic Republic of),EMRO,16654,5275567,444,113824
+2021-09-13,IR,Iran (Islamic Republic of),EMRO,20219,5295786,487,114311
+2021-09-14,IR,Iran (Islamic Republic of),EMRO,22541,5318327,448,114759
+2021-09-15,IR,Iran (Islamic Republic of),EMRO,22329,5340656,408,115167
+2021-09-16,IR,Iran (Islamic Republic of),EMRO,19731,5360387,452,115619
+2021-09-17,IR,Iran (Islamic Republic of),EMRO,18021,5378408,453,116072
+2021-09-18,IR,Iran (Islamic Republic of),EMRO,17605,5396013,364,116436
+2021-09-19,IR,Iran (Islamic Republic of),EMRO,12847,5408860,355,116791
+2021-09-20,IR,Iran (Islamic Republic of),EMRO,15975,5424835,391,117182
+2021-09-21,IR,Iran (Islamic Republic of),EMRO,17397,5442232,344,117526
+2021-09-22,IR,Iran (Islamic Republic of),EMRO,17564,5459796,379,117905
+2021-09-23,IR,Iran (Islamic Republic of),EMRO,17433,5477229,286,118191
+2021-09-24,IR,Iran (Islamic Republic of),EMRO,16362,5493591,317,118508
+2021-09-25,IR,Iran (Islamic Republic of),EMRO,15294,5508885,284,118792
+2021-09-26,IR,Iran (Islamic Republic of),EMRO,10843,5519728,280,119072
+2021-09-27,IR,Iran (Islamic Republic of),EMRO,13792,5533520,288,119360
+2021-09-28,IR,Iran (Islamic Republic of),EMRO,14470,5547990,289,119649
+2021-09-29,IR,Iran (Islamic Republic of),EMRO,11701,5559691,239,119888
+2021-09-30,IR,Iran (Islamic Republic of),EMRO,13271,5572962,272,120160
+2021-10-01,IR,Iran (Islamic Republic of),EMRO,14078,5587040,268,120428
+2021-10-02,IR,Iran (Islamic Republic of),EMRO,14525,5601565,235,120663
+2021-10-03,IR,Iran (Islamic Republic of),EMRO,10135,5611700,217,120880
+2021-10-04,IR,Iran (Islamic Republic of),EMRO,12428,5624128,229,121109
+2021-10-05,IR,Iran (Islamic Republic of),EMRO,14607,5638735,238,121347
+2021-10-06,IR,Iran (Islamic Republic of),EMRO,13226,5651961,216,121563
+2021-10-07,IR,Iran (Islamic Republic of),EMRO,10497,5662458,216,121779
+2021-10-08,IR,Iran (Islamic Republic of),EMRO,11625,5674083,233,122012
+2021-10-09,IR,Iran (Islamic Republic of),EMRO,9897,5683980,185,122197
+2021-10-10,IR,Iran (Islamic Republic of),EMRO,7654,5691634,173,122370
+2021-10-11,IR,Iran (Islamic Republic of),EMRO,11256,5702890,222,122592
+2021-10-12,IR,Iran (Islamic Republic of),EMRO,13504,5716394,276,122868
+2021-10-13,IR,Iran (Islamic Republic of),EMRO,13391,5729785,213,123081
+2021-10-14,IR,Iran (Islamic Republic of),EMRO,12298,5742083,194,123275
+2021-10-15,IR,Iran (Islamic Republic of),EMRO,11964,5754047,223,123498
+2021-10-16,IR,Iran (Islamic Republic of),EMRO,11857,5765904,197,123695
+2021-10-17,IR,Iran (Islamic Republic of),EMRO,7515,5773419,181,123876
+2021-10-18,IR,Iran (Islamic Republic of),EMRO,11396,5784815,199,124075
+2021-10-19,IR,Iran (Islamic Republic of),EMRO,11844,5796659,181,124256
+2021-10-20,IR,Iran (Islamic Republic of),EMRO,13308,5809967,167,124423
+2021-10-21,IR,Iran (Islamic Republic of),EMRO,11770,5821737,162,124585
+2021-10-22,IR,Iran (Islamic Republic of),EMRO,11788,5833525,178,124763
+2021-10-23,IR,Iran (Islamic Republic of),EMRO,11064,5844589,165,124928
+2021-10-24,IR,Iran (Islamic Republic of),EMRO,7081,5851670,124,125052
+2021-10-25,IR,Iran (Islamic Republic of),EMRO,9174,5860844,171,125223
+2021-10-26,IR,Iran (Islamic Republic of),EMRO,7516,5868360,140,125363
+2021-10-27,IR,Iran (Islamic Republic of),EMRO,9096,5877456,156,125519
+2021-10-28,IR,Iran (Islamic Republic of),EMRO,10644,5888100,197,125716
+2021-10-29,IR,Iran (Islamic Republic of),EMRO,11409,5899509,159,125875
+2021-10-30,IR,Iran (Islamic Republic of),EMRO,9893,5909402,123,125998
+2021-10-31,IR,Iran (Islamic Republic of),EMRO,6809,5916211,128,126126
+2021-11-01,IR,Iran (Islamic Republic of),EMRO,8427,5924638,177,126303
+2021-11-02,IR,Iran (Islamic Republic of),EMRO,9857,5934495,153,126456
+2021-11-03,IR,Iran (Islamic Republic of),EMRO,10104,5944599,160,126616
+2021-11-04,IR,Iran (Islamic Republic of),EMRO,10363,5954962,147,126763
+2021-11-05,IR,Iran (Islamic Republic of),EMRO,9862,5964824,158,126921
+2021-11-06,IR,Iran (Islamic Republic of),EMRO,8633,5973457,132,127053
+2021-11-07,IR,Iran (Islamic Republic of),EMRO,6803,5980260,120,127173
+2021-11-08,IR,Iran (Islamic Republic of),EMRO,7554,5987814,126,127299
+2021-11-09,IR,Iran (Islamic Republic of),EMRO,8341,5996155,140,127439
+2021-11-10,IR,Iran (Islamic Republic of),EMRO,8305,6004460,112,127551
+2021-11-11,IR,Iran (Islamic Republic of),EMRO,7948,6012408,135,127686
+2021-11-12,IR,Iran (Islamic Republic of),EMRO,7539,6019947,123,127809
+2021-11-13,IR,Iran (Islamic Republic of),EMRO,7322,6027269,109,127918
+2021-11-14,IR,Iran (Islamic Republic of),EMRO,4306,6031575,124,128042
+2021-11-15,IR,Iran (Islamic Republic of),EMRO,6143,6037718,125,128167
+2021-11-16,IR,Iran (Islamic Republic of),EMRO,7494,6045212,105,128272
+2021-11-17,IR,Iran (Islamic Republic of),EMRO,6430,6051642,134,128406
+2021-11-18,IR,Iran (Islamic Republic of),EMRO,6251,6057893,125,128531
+2021-11-19,IR,Iran (Islamic Republic of),EMRO,5882,6063775,103,128634
+2021-11-20,IR,Iran (Islamic Republic of),EMRO,5784,6069559,100,128734
+2021-11-21,IR,Iran (Islamic Republic of),EMRO,3539,6073098,118,128852
+2021-11-22,IR,Iran (Islamic Republic of),EMRO,4340,6077438,104,128956
+2021-11-23,IR,Iran (Islamic Republic of),EMRO,5427,6082865,97,129053
+2021-11-24,IR,Iran (Islamic Republic of),EMRO,5144,6088009,132,129185
+2021-11-25,IR,Iran (Islamic Republic of),EMRO,4813,6092822,95,129280
+2021-11-26,IR,Iran (Islamic Republic of),EMRO,4850,6097672,96,129376
+2021-11-27,IR,Iran (Islamic Republic of),EMRO,4384,6102056,86,129462
+2021-11-28,IR,Iran (Islamic Republic of),EMRO,3045,6105101,87,129549
+2021-11-29,IR,Iran (Islamic Republic of),EMRO,3781,6108882,80,129629
+2021-11-30,IR,Iran (Islamic Republic of),EMRO,4310,6113192,82,129711
+2021-12-01,IR,Iran (Islamic Republic of),EMRO,4253,6117445,119,129830
+2021-12-02,IR,Iran (Islamic Republic of),EMRO,4312,6121757,82,129912
+2021-12-03,IR,Iran (Islamic Republic of),EMRO,3839,6125596,76,129988
+2021-12-04,IR,Iran (Islamic Republic of),EMRO,3603,6129199,78,130066
+2021-12-05,IR,Iran (Islamic Republic of),EMRO,2157,6131356,58,130124
+2021-12-06,IR,Iran (Islamic Republic of),EMRO,3109,6134465,76,130200
+2021-12-07,IR,Iran (Islamic Republic of),EMRO,3356,6137821,77,130277
+2021-12-08,IR,Iran (Islamic Republic of),EMRO,3514,6141335,79,130356
+2021-12-09,IR,Iran (Islamic Republic of),EMRO,3309,6144644,90,130446
+2021-12-10,IR,Iran (Islamic Republic of),EMRO,3228,6147872,78,130524
+2021-12-11,IR,Iran (Islamic Republic of),EMRO,2971,6150843,79,130603
+2021-12-12,IR,Iran (Islamic Republic of),EMRO,1681,6152524,58,130661
+2021-12-13,IR,Iran (Islamic Republic of),EMRO,2289,6154813,61,130722
+2021-12-14,IR,Iran (Islamic Republic of),EMRO,2706,6157519,42,130764
+2021-12-15,IR,Iran (Islamic Republic of),EMRO,2784,6160303,67,130831
+2021-12-16,IR,Iran (Islamic Republic of),EMRO,2651,6162954,52,130883
+2021-12-17,IR,Iran (Islamic Republic of),EMRO,2500,6165454,63,130946
+2021-12-18,IR,Iran (Islamic Republic of),EMRO,2196,6167650,46,130992
+2021-12-19,IR,Iran (Islamic Republic of),EMRO,1361,6169011,41,131033
+2021-12-20,IR,Iran (Islamic Republic of),EMRO,1968,6170979,50,131083
+2021-12-21,IR,Iran (Islamic Republic of),EMRO,2390,6173369,41,131124
+2021-12-22,IR,Iran (Islamic Republic of),EMRO,2413,6175782,43,131167
+2021-12-23,IR,Iran (Islamic Republic of),EMRO,2103,6177885,44,131211
+2021-12-24,IR,Iran (Islamic Republic of),EMRO,1932,6179817,51,131262
+2021-12-25,IR,Iran (Islamic Republic of),EMRO,1967,6181784,44,131306
+2021-12-26,IR,Iran (Islamic Republic of),EMRO,1121,6182905,42,131348
+2021-12-27,IR,Iran (Islamic Republic of),EMRO,1857,6184762,52,131400
+2021-12-28,IR,Iran (Islamic Republic of),EMRO,1967,6186729,34,131434
+2021-12-29,IR,Iran (Islamic Republic of),EMRO,2128,6188857,40,131474
+2021-12-30,IR,Iran (Islamic Republic of),EMRO,1905,6190762,53,131527
+2021-12-31,IR,Iran (Islamic Republic of),EMRO,1936,6192698,45,131572
+2020-01-03,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-04,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-05,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-06,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-07,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-08,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-09,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-10,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-11,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-12,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-13,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-14,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-15,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-16,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-17,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-18,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-19,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-20,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-21,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-22,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-23,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-24,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-25,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-26,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-27,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-28,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-29,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-30,AF,Afghanistan,EMRO,0,0,0,0
+2020-01-31,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-01,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-02,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-03,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-04,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-05,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-06,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-07,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-08,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-09,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-10,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-11,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-12,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-13,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-14,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-15,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-16,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-17,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-18,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-19,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-20,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-21,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-22,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-23,AF,Afghanistan,EMRO,0,0,0,0
+2020-02-24,AF,Afghanistan,EMRO,5,5,0,0
+2020-02-25,AF,Afghanistan,EMRO,0,5,0,0
+2020-02-26,AF,Afghanistan,EMRO,0,5,0,0
+2020-02-27,AF,Afghanistan,EMRO,0,5,0,0
+2020-02-28,AF,Afghanistan,EMRO,0,5,0,0
+2020-02-29,AF,Afghanistan,EMRO,0,5,0,0
+2020-03-01,AF,Afghanistan,EMRO,0,5,0,0
+2020-03-02,AF,Afghanistan,EMRO,0,5,0,0
+2020-03-03,AF,Afghanistan,EMRO,0,5,0,0
+2020-03-04,AF,Afghanistan,EMRO,0,5,0,0
+2020-03-05,AF,Afghanistan,EMRO,0,5,0,0
+2020-03-06,AF,Afghanistan,EMRO,0,5,0,0
+2020-03-07,AF,Afghanistan,EMRO,3,8,0,0
+2020-03-08,AF,Afghanistan,EMRO,0,8,0,0
+2020-03-09,AF,Afghanistan,EMRO,0,8,0,0
+2020-03-10,AF,Afghanistan,EMRO,0,8,0,0
+2020-03-11,AF,Afghanistan,EMRO,3,11,0,0
+2020-03-12,AF,Afghanistan,EMRO,0,11,0,0
+2020-03-13,AF,Afghanistan,EMRO,0,11,0,0
+2020-03-14,AF,Afghanistan,EMRO,3,14,0,0
+2020-03-15,AF,Afghanistan,EMRO,6,20,0,0
+2020-03-16,AF,Afghanistan,EMRO,5,25,0,0
+2020-03-17,AF,Afghanistan,EMRO,-1,24,0,0
+2020-03-18,AF,Afghanistan,EMRO,0,24,0,0
+2020-03-19,AF,Afghanistan,EMRO,0,24,0,0
+2020-03-20,AF,Afghanistan,EMRO,0,24,0,0
+2020-03-21,AF,Afghanistan,EMRO,0,24,0,0
+2020-03-22,AF,Afghanistan,EMRO,10,34,0,0
+2020-03-23,AF,Afghanistan,EMRO,6,40,1,1
+2020-03-24,AF,Afghanistan,EMRO,2,42,0,1
+2020-03-25,AF,Afghanistan,EMRO,32,74,0,1
+2020-03-26,AF,Afghanistan,EMRO,6,80,1,2
+2020-03-27,AF,Afghanistan,EMRO,11,91,0,2
+2020-03-28,AF,Afghanistan,EMRO,15,106,0,2
+2020-03-29,AF,Afghanistan,EMRO,8,114,2,4
+2020-03-30,AF,Afghanistan,EMRO,0,114,0,4
+2020-03-31,AF,Afghanistan,EMRO,52,166,0,4
+2020-04-01,AF,Afghanistan,EMRO,26,192,0,4
+2020-04-02,AF,Afghanistan,EMRO,43,235,0,4
+2020-04-03,AF,Afghanistan,EMRO,34,269,1,5
+2020-04-04,AF,Afghanistan,EMRO,1,270,0,5
+2020-04-05,AF,Afghanistan,EMRO,29,299,2,7
+2020-04-06,AF,Afghanistan,EMRO,38,337,0,7
+2020-04-07,AF,Afghanistan,EMRO,30,367,4,11
+2020-04-08,AF,Afghanistan,EMRO,56,423,3,14
+2020-04-09,AF,Afghanistan,EMRO,21,444,1,15
+2020-04-10,AF,Afghanistan,EMRO,77,521,0,15
+2020-04-11,AF,Afghanistan,EMRO,0,521,0,15
+2020-04-12,AF,Afghanistan,EMRO,34,555,3,18
+2020-04-13,AF,Afghanistan,EMRO,52,607,1,19
+2020-04-14,AF,Afghanistan,EMRO,58,665,3,22
+2020-04-15,AF,Afghanistan,EMRO,105,770,3,25
+2020-04-16,AF,Afghanistan,EMRO,24,794,4,29
+2020-04-17,AF,Afghanistan,EMRO,51,845,1,30
+2020-04-18,AF,Afghanistan,EMRO,63,908,0,30
+2020-04-19,AF,Afghanistan,EMRO,25,933,0,30
+2020-04-20,AF,Afghanistan,EMRO,63,996,3,33
+2020-04-21,AF,Afghanistan,EMRO,30,1026,3,36
+2020-04-22,AF,Afghanistan,EMRO,66,1092,0,36
+2020-04-23,AF,Afghanistan,EMRO,84,1176,4,40
+2020-04-24,AF,Afghanistan,EMRO,50,1226,0,40
+2020-04-25,AF,Afghanistan,EMRO,104,1330,3,43
+2020-04-26,AF,Afghanistan,EMRO,133,1463,6,49
+2020-04-27,AF,Afghanistan,EMRO,68,1531,1,50
+2020-04-28,AF,Afghanistan,EMRO,172,1703,10,60
+2020-04-29,AF,Afghanistan,EMRO,124,1827,0,60
+2020-04-30,AF,Afghanistan,EMRO,0,1827,0,60
+2020-05-01,AF,Afghanistan,EMRO,344,2171,4,64
+2020-05-02,AF,Afghanistan,EMRO,298,2469,8,72
+2020-05-03,AF,Afghanistan,EMRO,0,2469,0,72
+2020-05-04,AF,Afghanistan,EMRO,0,2469,0,72
+2020-05-05,AF,Afghanistan,EMRO,0,2469,0,72
+2020-05-06,AF,Afghanistan,EMRO,755,3224,23,95
+2020-05-07,AF,Afghanistan,EMRO,168,3392,9,104
+2020-05-08,AF,Afghanistan,EMRO,171,3563,1,105
+2020-05-09,AF,Afghanistan,EMRO,0,3563,0,105
+2020-05-10,AF,Afghanistan,EMRO,839,4402,14,119
+2020-05-11,AF,Afghanistan,EMRO,262,4664,1,120
+2020-05-12,AF,Afghanistan,EMRO,303,4967,7,127
+2020-05-13,AF,Afghanistan,EMRO,0,4967,0,127
+2020-05-14,AF,Afghanistan,EMRO,372,5339,9,136
+2020-05-15,AF,Afghanistan,EMRO,714,6053,17,153
+2020-05-16,AF,Afghanistan,EMRO,349,6402,15,168
+2020-05-17,AF,Afghanistan,EMRO,233,6635,1,169
+2020-05-18,AF,Afghanistan,EMRO,437,7072,4,173
+2020-05-19,AF,Afghanistan,EMRO,583,7655,4,177
+2020-05-20,AF,Afghanistan,EMRO,490,8145,10,187
+2020-05-21,AF,Afghanistan,EMRO,531,8676,6,193
+2020-05-22,AF,Afghanistan,EMRO,540,9216,12,205
+2020-05-23,AF,Afghanistan,EMRO,736,9952,10,215
+2020-05-24,AF,Afghanistan,EMRO,716,10668,7,222
+2020-05-25,AF,Afghanistan,EMRO,512,11180,1,223
+2020-05-26,AF,Afghanistan,EMRO,737,11917,1,224
+2020-05-27,AF,Afghanistan,EMRO,548,12465,6,230
+2020-05-28,AF,Afghanistan,EMRO,637,13102,9,239
+2020-05-29,AF,Afghanistan,EMRO,643,13745,11,250
+2020-05-30,AF,Afghanistan,EMRO,784,14529,2,252
+2020-05-31,AF,Afghanistan,EMRO,651,15180,2,254
+2020-06-01,AF,Afghanistan,EMRO,656,15836,15,269
+2020-06-02,AF,Afghanistan,EMRO,742,16578,5,274
+2020-06-03,AF,Afghanistan,EMRO,775,17353,24,298
+2020-06-04,AF,Afghanistan,EMRO,624,17977,5,303
+2020-06-05,AF,Afghanistan,EMRO,1078,19055,10,313
+2020-06-06,AF,Afghanistan,EMRO,582,19637,18,331
+2020-06-07,AF,Afghanistan,EMRO,791,20428,30,361
+2020-06-08,AF,Afghanistan,EMRO,575,21003,12,373
+2020-06-09,AF,Afghanistan,EMRO,305,21308,7,380
+2020-06-10,AF,Afghanistan,EMRO,920,22228,29,409
+2020-06-11,AF,Afghanistan,EMRO,748,22976,21,430
+2020-06-12,AF,Afghanistan,EMRO,656,23632,20,450
+2020-06-13,AF,Afghanistan,EMRO,556,24188,5,455
+2020-06-14,AF,Afghanistan,EMRO,664,24852,20,475
+2020-06-15,AF,Afghanistan,EMRO,761,25613,5,480
+2020-06-16,AF,Afghanistan,EMRO,106,25719,8,488
+2020-06-17,AF,Afghanistan,EMRO,1241,26960,20,508
+2020-06-18,AF,Afghanistan,EMRO,463,27423,42,550
+2020-06-19,AF,Afghanistan,EMRO,541,27964,2,552
+2020-06-20,AF,Afghanistan,EMRO,419,28383,0,552
+2020-06-21,AF,Afghanistan,EMRO,536,28919,33,585
+2020-06-22,AF,Afghanistan,EMRO,310,29229,17,602
+2020-06-23,AF,Afghanistan,EMRO,338,29567,20,622
+2020-06-24,AF,Afghanistan,EMRO,159,29726,21,643
+2020-06-25,AF,Afghanistan,EMRO,535,30261,36,679
+2020-06-26,AF,Afghanistan,EMRO,85,30346,5,684
+2020-06-27,AF,Afghanistan,EMRO,356,30702,23,707
+2020-06-28,AF,Afghanistan,EMRO,351,31053,26,733
+2020-06-29,AF,Afghanistan,EMRO,271,31324,4,737
+2020-06-30,AF,Afghanistan,EMRO,121,31445,2,739
+2020-07-01,AF,Afghanistan,EMRO,403,31848,39,778
+2020-07-02,AF,Afghanistan,EMRO,260,32108,33,811
+2020-07-03,AF,Afghanistan,EMRO,302,32410,12,823
+2020-07-04,AF,Afghanistan,EMRO,348,32758,7,830
+2020-07-05,AF,Afghanistan,EMRO,279,33037,38,868
+2020-07-06,AF,Afghanistan,EMRO,113,33150,23,891
+2020-07-07,AF,Afghanistan,EMRO,320,33470,33,924
+2020-07-08,AF,Afghanistan,EMRO,210,33680,16,940
+2020-07-09,AF,Afghanistan,EMRO,59,33739,1,941
+2020-07-10,AF,Afghanistan,EMRO,541,34280,34,975
+2020-07-11,AF,Afghanistan,EMRO,157,34437,4,979
+2020-07-12,AF,Afghanistan,EMRO,100,34537,35,1014
+2020-07-13,AF,Afghanistan,EMRO,4,34541,2,1016
+2020-07-14,AF,Afghanistan,EMRO,285,34826,33,1049
+2020-07-15,AF,Afghanistan,EMRO,200,35026,49,1098
+2020-07-16,AF,Afghanistan,EMRO,130,35156,19,1117
+2020-07-17,AF,Afghanistan,EMRO,159,35315,34,1151
+2020-07-18,AF,Afghanistan,EMRO,60,35375,0,1151
+2020-07-19,AF,Afghanistan,EMRO,186,35561,34,1185
+2020-07-20,AF,Afghanistan,EMRO,34,35595,2,1187
+2020-07-21,AF,Afghanistan,EMRO,106,35701,1,1188
+2020-07-22,AF,Afghanistan,EMRO,112,35813,6,1194
+2020-07-23,AF,Afghanistan,EMRO,188,36001,21,1215
+2020-07-24,AF,Afghanistan,EMRO,66,36067,14,1229
+2020-07-25,AF,Afghanistan,EMRO,55,36122,21,1250
+2020-07-26,AF,Afghanistan,EMRO,121,36243,13,1263
+2020-07-27,AF,Afghanistan,EMRO,106,36349,10,1273
+2020-07-28,AF,Afghanistan,EMRO,105,36454,1,1274
+2020-07-29,AF,Afghanistan,EMRO,103,36557,1,1275
+2020-07-30,AF,Afghanistan,EMRO,71,36628,0,1275
+2020-07-31,AF,Afghanistan,EMRO,0,36628,0,1275
+2020-08-01,AF,Afghanistan,EMRO,168,36796,12,1287
+2020-08-02,AF,Afghanistan,EMRO,0,36796,0,1287
+2020-08-03,AF,Afghanistan,EMRO,0,36796,0,1287
+2020-08-04,AF,Afghanistan,EMRO,37,36833,5,1292
+2020-08-05,AF,Afghanistan,EMRO,82,36915,6,1298
+2020-08-06,AF,Afghanistan,EMRO,67,36982,4,1302
+2020-08-07,AF,Afghanistan,EMRO,41,37023,0,1302
+2020-08-08,AF,Afghanistan,EMRO,78,37101,9,1311
+2020-08-09,AF,Afghanistan,EMRO,39,37140,5,1316
+2020-08-10,AF,Afghanistan,EMRO,0,37140,0,1316
+2020-08-11,AF,Afghanistan,EMRO,215,37355,32,1348
+2020-08-12,AF,Afghanistan,EMRO,76,37431,10,1358
+2020-08-13,AF,Afghanistan,EMRO,79,37510,9,1367
+2020-08-14,AF,Afghanistan,EMRO,7,37517,0,1367
+2020-08-15,AF,Afghanistan,EMRO,120,37637,7,1374
+2020-08-16,AF,Afghanistan,EMRO,45,37682,5,1379
+2020-08-17,AF,Afghanistan,EMRO,0,37682,0,1379
+2020-08-18,AF,Afghanistan,EMRO,3,37685,0,1379
+2020-08-19,AF,Afghanistan,EMRO,0,37685,0,1379
+2020-08-20,AF,Afghanistan,EMRO,160,37845,8,1387
+2020-08-21,AF,Afghanistan,EMRO,97,37942,2,1389
+2020-08-22,AF,Afghanistan,EMRO,38,37980,0,1389
+2020-08-23,AF,Afghanistan,EMRO,59,38039,0,1389
+2020-08-24,AF,Afghanistan,EMRO,46,38085,2,1391
+2020-08-25,AF,Afghanistan,EMRO,71,38156,10,1401
+2020-08-26,AF,Afghanistan,EMRO,43,38199,4,1405
+2020-08-27,AF,Afghanistan,EMRO,16,38215,0,1405
+2020-08-28,AF,Afghanistan,EMRO,11,38226,1,1406
+2020-08-29,AF,Afghanistan,EMRO,3,38229,0,1406
+2020-08-30,AF,Afghanistan,EMRO,0,38229,0,1406
+2020-08-31,AF,Afghanistan,EMRO,19,38248,0,1406
+2020-09-01,AF,Afghanistan,EMRO,34,38282,4,1410
+2020-09-02,AF,Afghanistan,EMRO,47,38329,3,1413
+2020-09-03,AF,Afghanistan,EMRO,45,38374,0,1413
+2020-09-04,AF,Afghanistan,EMRO,0,38374,0,1413
+2020-09-05,AF,Afghanistan,EMRO,16,38390,0,1413
+2020-09-06,AF,Afghanistan,EMRO,94,38484,3,1416
+2020-09-07,AF,Afghanistan,EMRO,96,38580,3,1419
+2020-09-08,AF,Afghanistan,EMRO,26,38606,3,1422
+2020-09-09,AF,Afghanistan,EMRO,24,38630,2,1424
+2020-09-10,AF,Afghanistan,EMRO,28,38658,0,1424
+2020-09-11,AF,Afghanistan,EMRO,34,38692,0,1424
+2020-09-12,AF,Afghanistan,EMRO,35,38727,0,1424
+2020-09-13,AF,Afghanistan,EMRO,75,38802,0,1424
+2020-09-14,AF,Afghanistan,EMRO,56,38858,5,1429
+2020-09-15,AF,Afghanistan,EMRO,43,38901,1,1430
+2020-09-16,AF,Afghanistan,EMRO,40,38941,10,1440
+2020-09-17,AF,Afghanistan,EMRO,17,38958,0,1440
+2020-09-18,AF,Afghanistan,EMRO,11,38969,1,1441
+2020-09-19,AF,Afghanistan,EMRO,36,39005,0,1441
+2020-09-20,AF,Afghanistan,EMRO,125,39130,4,1445
+2020-09-21,AF,Afghanistan,EMRO,30,39160,3,1448
+2020-09-22,AF,Afghanistan,EMRO,22,39182,1,1449
+2020-09-23,AF,Afghanistan,EMRO,49,39231,1,1450
+2020-09-24,AF,Afghanistan,EMRO,25,39256,5,1455
+2020-09-25,AF,Afghanistan,EMRO,16,39272,0,1455
+2020-09-26,AF,Afghanistan,EMRO,6,39278,2,1457
+2020-09-27,AF,Afghanistan,EMRO,35,39313,0,1457
+2020-09-28,AF,Afghanistan,EMRO,12,39325,3,1460
+2020-09-29,AF,Afghanistan,EMRO,15,39340,2,1462
+2020-09-30,AF,Afghanistan,EMRO,14,39354,0,1462
+2020-10-01,AF,Afghanistan,EMRO,17,39371,0,1462
+2020-10-02,AF,Afghanistan,EMRO,5,39376,0,1462
+2020-10-03,AF,Afghanistan,EMRO,7,39383,4,1466
+2020-10-04,AF,Afghanistan,EMRO,44,39427,0,1466
+2020-10-05,AF,Afghanistan,EMRO,81,39508,4,1470
+2020-10-06,AF,Afghanistan,EMRO,64,39572,1,1471
+2020-10-07,AF,Afghanistan,EMRO,62,39634,2,1473
+2020-10-08,AF,Afghanistan,EMRO,68,39702,1,1474
+2020-10-09,AF,Afghanistan,EMRO,77,39779,2,1476
+2020-10-10,AF,Afghanistan,EMRO,10,39789,1,1477
+2020-10-11,AF,Afghanistan,EMRO,96,39885,4,1481
+2020-10-12,AF,Afghanistan,EMRO,71,39956,2,1483
+2020-10-13,AF,Afghanistan,EMRO,58,40014,1,1484
+2020-10-14,AF,Afghanistan,EMRO,66,40080,1,1485
+2020-10-15,AF,Afghanistan,EMRO,32,40112,0,1485
+2020-10-16,AF,Afghanistan,EMRO,47,40159,4,1489
+2020-10-17,AF,Afghanistan,EMRO,68,40227,3,1492
+2020-10-18,AF,Afghanistan,EMRO,59,40286,4,1496
+2020-10-19,AF,Afghanistan,EMRO,87,40373,5,1501
+2020-10-20,AF,Afghanistan,EMRO,88,40461,2,1503
+2020-10-21,AF,Afghanistan,EMRO,0,40461,0,1503
+2020-10-22,AF,Afghanistan,EMRO,49,40510,0,1503
+2020-10-23,AF,Afghanistan,EMRO,116,40626,2,1505
+2020-10-24,AF,Afghanistan,EMRO,61,40687,2,1507
+2020-10-25,AF,Afghanistan,EMRO,81,40768,4,1511
+2020-10-26,AF,Afghanistan,EMRO,65,40833,3,1514
+2020-10-27,AF,Afghanistan,EMRO,104,40937,4,1518
+2020-10-28,AF,Afghanistan,EMRO,95,41032,5,1523
+2020-10-29,AF,Afghanistan,EMRO,113,41145,6,1529
+2020-10-30,AF,Afghanistan,EMRO,123,41268,3,1532
+2020-10-31,AF,Afghanistan,EMRO,66,41334,1,1533
+2020-11-01,AF,Afghanistan,EMRO,91,41425,3,1536
+2020-11-02,AF,Afghanistan,EMRO,76,41501,0,1536
+2020-11-03,AF,Afghanistan,EMRO,132,41633,5,1541
+2020-11-04,AF,Afghanistan,EMRO,95,41728,3,1544
+2020-11-05,AF,Afghanistan,EMRO,86,41814,4,1548
+2020-11-06,AF,Afghanistan,EMRO,121,41935,6,1554
+2020-11-07,AF,Afghanistan,EMRO,40,41975,0,1554
+2020-11-08,AF,Afghanistan,EMRO,58,42033,2,1556
+2020-11-09,AF,Afghanistan,EMRO,126,42159,6,1562
+2020-11-10,AF,Afghanistan,EMRO,138,42297,12,1574
+2020-11-11,AF,Afghanistan,EMRO,166,42463,3,1577
+2020-11-12,AF,Afghanistan,EMRO,146,42609,4,1581
+2020-11-13,AF,Afghanistan,EMRO,186,42795,10,1591
+2020-11-14,AF,Afghanistan,EMRO,174,42969,4,1595
+2020-11-15,AF,Afghanistan,EMRO,66,43035,10,1605
+2020-11-16,AF,Afghanistan,EMRO,205,43240,12,1617
+2020-11-17,AF,Afghanistan,EMRO,163,43403,9,1626
+2020-11-18,AF,Afghanistan,EMRO,225,43628,12,1638
+2020-11-19,AF,Afghanistan,EMRO,223,43851,7,1645
+2020-11-20,AF,Afghanistan,EMRO,377,44228,5,1650
+2020-11-21,AF,Afghanistan,EMRO,215,44443,11,1661
+2020-11-22,AF,Afghanistan,EMRO,60,44503,14,1675
+2020-11-23,AF,Afghanistan,EMRO,203,44706,12,1687
+2020-11-24,AF,Afghanistan,EMRO,282,44988,8,1695
+2020-11-25,AF,Afghanistan,EMRO,290,45278,17,1712
+2020-11-26,AF,Afghanistan,EMRO,212,45490,13,1725
+2020-11-27,AF,Afghanistan,EMRO,226,45716,12,1737
+2020-11-28,AF,Afghanistan,EMRO,123,45839,3,1740
+2020-11-29,AF,Afghanistan,EMRO,127,45966,12,1752
+2020-11-30,AF,Afghanistan,EMRO,249,46215,11,1763
+2020-12-01,AF,Afghanistan,EMRO,283,46498,11,1774
+2020-12-02,AF,Afghanistan,EMRO,219,46717,21,1795
+2020-12-03,AF,Afghanistan,EMRO,263,46980,27,1822
+2020-12-04,AF,Afghanistan,EMRO,278,47258,19,1841
+2020-12-05,AF,Afghanistan,EMRO,130,47388,6,1847
+2020-12-06,AF,Afghanistan,EMRO,253,47641,18,1865
+2020-12-07,AF,Afghanistan,EMRO,260,47901,10,1875
+2020-12-08,AF,Afghanistan,EMRO,235,48136,27,1902
+2020-12-09,AF,Afghanistan,EMRO,230,48366,6,1908
+2020-12-10,AF,Afghanistan,EMRO,174,48540,13,1921
+2020-12-11,AF,Afghanistan,EMRO,213,48753,18,1939
+2020-12-12,AF,Afghanistan,EMRO,73,48826,10,1949
+2020-12-13,AF,Afghanistan,EMRO,126,48952,11,1960
+2020-12-14,AF,Afghanistan,EMRO,321,49273,11,1971
+2020-12-15,AF,Afghanistan,EMRO,211,49484,4,1975
+2020-12-16,AF,Afghanistan,EMRO,219,49703,26,2001
+2020-12-17,AF,Afghanistan,EMRO,224,49927,16,2017
+2020-12-18,AF,Afghanistan,EMRO,275,50202,15,2032
+2020-12-19,AF,Afghanistan,EMRO,254,50456,5,2037
+2020-12-20,AF,Afghanistan,EMRO,80,50536,17,2054
+2020-12-21,AF,Afghanistan,EMRO,142,50678,20,2074
+2020-12-22,AF,Afghanistan,EMRO,210,50888,15,2089
+2020-12-23,AF,Afghanistan,EMRO,182,51070,16,2105
+2020-12-24,AF,Afghanistan,EMRO,287,51357,21,2126
+2020-12-25,AF,Afghanistan,EMRO,238,51595,9,2135
+2020-12-26,AF,Afghanistan,EMRO,169,51764,13,2148
+2020-12-27,AF,Afghanistan,EMRO,84,51848,10,2158
+2020-12-28,AF,Afghanistan,EMRO,159,52007,12,2170
+2020-12-29,AF,Afghanistan,EMRO,140,52147,12,2182
+2020-12-30,AF,Afghanistan,EMRO,183,52330,7,2189
+2020-12-31,AF,Afghanistan,EMRO,0,52330,0,2189
+2021-01-01,AF,Afghanistan,EMRO,183,52513,12,2201
+2021-01-02,AF,Afghanistan,EMRO,73,52586,10,2211
+2021-01-03,AF,Afghanistan,EMRO,123,52709,10,2221
+2021-01-04,AF,Afghanistan,EMRO,200,52909,9,2230
+2021-01-05,AF,Afghanistan,EMRO,102,53011,7,2237
+2021-01-06,AF,Afghanistan,EMRO,94,53105,7,2244
+2021-01-07,AF,Afghanistan,EMRO,102,53207,9,2253
+2021-01-08,AF,Afghanistan,EMRO,125,53332,4,2257
+2021-01-09,AF,Afghanistan,EMRO,68,53400,7,2264
+2021-01-10,AF,Afghanistan,EMRO,89,53489,13,2277
+2021-01-11,AF,Afghanistan,EMRO,49,53538,11,2288
+2021-01-12,AF,Afghanistan,EMRO,46,53584,13,2301
+2021-01-13,AF,Afghanistan,EMRO,106,53690,7,2308
+2021-01-14,AF,Afghanistan,EMRO,85,53775,6,2314
+2021-01-15,AF,Afghanistan,EMRO,56,53831,10,2324
+2021-01-16,AF,Afghanistan,EMRO,107,53938,12,2336
+2021-01-17,AF,Afghanistan,EMRO,46,53984,3,2339
+2021-01-18,AF,Afghanistan,EMRO,78,54062,4,2343
+2021-01-19,AF,Afghanistan,EMRO,79,54141,3,2346
+2021-01-20,AF,Afghanistan,EMRO,137,54278,8,2354
+2021-01-21,AF,Afghanistan,EMRO,125,54403,9,2363
+2021-01-22,AF,Afghanistan,EMRO,80,54483,7,2370
+2021-01-23,AF,Afghanistan,EMRO,76,54559,3,2373
+2021-01-24,AF,Afghanistan,EMRO,36,54595,5,2378
+2021-01-25,AF,Afghanistan,EMRO,77,54672,7,2385
+2021-01-26,AF,Afghanistan,EMRO,78,54750,4,2389
+2021-01-27,AF,Afghanistan,EMRO,104,54854,0,2389
+2021-01-28,AF,Afghanistan,EMRO,37,54891,8,2397
+2021-01-29,AF,Afghanistan,EMRO,48,54939,2,2399
+2021-01-30,AF,Afghanistan,EMRO,69,55008,1,2400
+2021-01-31,AF,Afghanistan,EMRO,15,55023,0,2400
+2021-02-01,AF,Afghanistan,EMRO,36,55059,4,2404
+2021-02-02,AF,Afghanistan,EMRO,62,55121,1,2405
+2021-02-03,AF,Afghanistan,EMRO,53,55174,1,2406
+2021-02-04,AF,Afghanistan,EMRO,57,55231,1,2407
+2021-02-05,AF,Afghanistan,EMRO,34,55265,0,2407
+2021-02-06,AF,Afghanistan,EMRO,65,55330,1,2408
+2021-02-07,AF,Afghanistan,EMRO,5,55335,2,2410
+2021-02-08,AF,Afghanistan,EMRO,24,55359,3,2413
+2021-02-09,AF,Afghanistan,EMRO,25,55384,1,2414
+2021-02-10,AF,Afghanistan,EMRO,18,55402,4,2418
+2021-02-11,AF,Afghanistan,EMRO,18,55420,1,2419
+2021-02-12,AF,Afghanistan,EMRO,25,55445,5,2424
+2021-02-13,AF,Afghanistan,EMRO,28,55473,3,2427
+2021-02-14,AF,Afghanistan,EMRO,19,55492,0,2427
+2021-02-15,AF,Afghanistan,EMRO,22,55514,0,2427
+2021-02-16,AF,Afghanistan,EMRO,4,55518,1,2428
+2021-02-17,AF,Afghanistan,EMRO,22,55540,0,2428
+2021-02-18,AF,Afghanistan,EMRO,17,55557,2,2430
+2021-02-19,AF,Afghanistan,EMRO,18,55575,0,2430
+2021-02-20,AF,Afghanistan,EMRO,5,55580,0,2430
+2021-02-21,AF,Afghanistan,EMRO,24,55604,2,2432
+2021-02-22,AF,Afghanistan,EMRO,13,55617,1,2433
+2021-02-23,AF,Afghanistan,EMRO,29,55646,2,2435
+2021-02-24,AF,Afghanistan,EMRO,18,55664,1,2436
+2021-02-25,AF,Afghanistan,EMRO,16,55680,2,2438
+2021-02-26,AF,Afghanistan,EMRO,16,55696,4,2442
+2021-02-27,AF,Afghanistan,EMRO,11,55707,1,2443
+2021-02-28,AF,Afghanistan,EMRO,7,55714,0,2443
+2021-03-01,AF,Afghanistan,EMRO,19,55733,1,2444
+2021-03-02,AF,Afghanistan,EMRO,26,55759,2,2446
+2021-03-03,AF,Afghanistan,EMRO,11,55770,0,2446
+2021-03-04,AF,Afghanistan,EMRO,5,55775,0,2446
+2021-03-05,AF,Afghanistan,EMRO,52,55827,3,2449
+2021-03-06,AF,Afghanistan,EMRO,13,55840,0,2449
+2021-03-07,AF,Afghanistan,EMRO,7,55847,0,2449
+2021-03-08,AF,Afghanistan,EMRO,29,55876,2,2451
+2021-03-09,AF,Afghanistan,EMRO,0,55876,0,2451
+2021-03-10,AF,Afghanistan,EMRO,18,55894,0,2451
+2021-03-11,AF,Afghanistan,EMRO,23,55917,0,2451
+2021-03-12,AF,Afghanistan,EMRO,42,55959,3,2454
+2021-03-13,AF,Afghanistan,EMRO,0,55959,0,2454
+2021-03-14,AF,Afghanistan,EMRO,26,55985,3,2457
+2021-03-15,AF,Afghanistan,EMRO,0,55985,2,2459
+2021-03-16,AF,Afghanistan,EMRO,10,55995,1,2460
+2021-03-17,AF,Afghanistan,EMRO,21,56016,0,2460
+2021-03-18,AF,Afghanistan,EMRO,28,56044,2,2462
+2021-03-19,AF,Afghanistan,EMRO,25,56069,0,2462
+2021-03-20,AF,Afghanistan,EMRO,24,56093,0,2462
+2021-03-21,AF,Afghanistan,EMRO,10,56103,1,2463
+2021-03-22,AF,Afghanistan,EMRO,50,56153,1,2464
+2021-03-23,AF,Afghanistan,EMRO,24,56177,2,2466
+2021-03-24,AF,Afghanistan,EMRO,15,56192,0,2466
+2021-03-25,AF,Afghanistan,EMRO,34,56226,1,2467
+2021-03-26,AF,Afghanistan,EMRO,28,56254,0,2467
+2021-03-27,AF,Afghanistan,EMRO,36,56290,2,2469
+2021-03-28,AF,Afghanistan,EMRO,4,56294,1,2470
+2021-03-29,AF,Afghanistan,EMRO,28,56322,2,2472
+2021-03-30,AF,Afghanistan,EMRO,62,56384,4,2476
+2021-03-31,AF,Afghanistan,EMRO,70,56454,8,2484
+2021-04-01,AF,Afghanistan,EMRO,63,56517,5,2489
+2021-04-02,AF,Afghanistan,EMRO,55,56572,6,2495
+2021-04-03,AF,Afghanistan,EMRO,23,56595,1,2496
+2021-04-04,AF,Afghanistan,EMRO,81,56676,1,2497
+2021-04-05,AF,Afghanistan,EMRO,41,56717,11,2508
+2021-04-06,AF,Afghanistan,EMRO,62,56779,4,2512
+2021-04-07,AF,Afghanistan,EMRO,94,56873,0,2512
+2021-04-08,AF,Afghanistan,EMRO,70,56943,4,2516
+2021-04-09,AF,Afghanistan,EMRO,76,57019,5,2521
+2021-04-10,AF,Afghanistan,EMRO,125,57144,0,2521
+2021-04-11,AF,Afghanistan,EMRO,16,57160,0,2521
+2021-04-12,AF,Afghanistan,EMRO,82,57242,8,2529
+2021-04-13,AF,Afghanistan,EMRO,122,57364,0,2529
+2021-04-14,AF,Afghanistan,EMRO,128,57492,3,2532
+2021-04-15,AF,Afghanistan,EMRO,42,57534,1,2533
+2021-04-16,AF,Afghanistan,EMRO,78,57612,2,2535
+2021-04-17,AF,Afghanistan,EMRO,109,57721,4,2539
+2021-04-18,AF,Afghanistan,EMRO,72,57793,0,2539
+2021-04-19,AF,Afghanistan,EMRO,105,57898,7,2546
+2021-04-20,AF,Afghanistan,EMRO,139,58037,3,2549
+2021-04-21,AF,Afghanistan,EMRO,177,58214,8,2557
+2021-04-22,AF,Afghanistan,EMRO,98,58312,4,2561
+2021-04-23,AF,Afghanistan,EMRO,230,58542,4,2565
+2021-04-24,AF,Afghanistan,EMRO,188,58730,7,2572
+2021-04-25,AF,Afghanistan,EMRO,113,58843,10,2582
+2021-04-26,AF,Afghanistan,EMRO,172,59015,10,2592
+2021-04-27,AF,Afghanistan,EMRO,210,59225,6,2598
+2021-04-28,AF,Afghanistan,EMRO,145,59370,13,2611
+2021-04-29,AF,Afghanistan,EMRO,206,59576,7,2618
+2021-04-30,AF,Afghanistan,EMRO,169,59745,7,2625
+2021-05-01,AF,Afghanistan,EMRO,194,59939,6,2631
+2021-05-02,AF,Afghanistan,EMRO,183,60122,6,2637
+2021-05-03,AF,Afghanistan,EMRO,178,60300,5,2642
+2021-05-04,AF,Afghanistan,EMRO,263,60563,6,2648
+2021-05-05,AF,Afghanistan,EMRO,234,60797,6,2654
+2021-05-06,AF,Afghanistan,EMRO,365,61162,10,2664
+2021-05-07,AF,Afghanistan,EMRO,293,61455,9,2673
+2021-05-08,AF,Afghanistan,EMRO,300,61755,10,2683
+2021-05-09,AF,Afghanistan,EMRO,87,61842,3,2686
+2021-05-10,AF,Afghanistan,EMRO,221,62063,12,2698
+2021-05-11,AF,Afghanistan,EMRO,340,62403,12,2710
+2021-05-12,AF,Afghanistan,EMRO,315,62718,3,2713
+2021-05-13,AF,Afghanistan,EMRO,327,63045,8,2721
+2021-05-14,AF,Afghanistan,EMRO,310,63355,9,2730
+2021-05-15,AF,Afghanistan,EMRO,57,63412,3,2733
+2021-05-16,AF,Afghanistan,EMRO,72,63484,9,2742
+2021-05-17,AF,Afghanistan,EMRO,114,63598,3,2745
+2021-05-18,AF,Afghanistan,EMRO,221,63819,6,2751
+2021-05-19,AF,Afghanistan,EMRO,303,64122,11,2762
+2021-05-20,AF,Afghanistan,EMRO,453,64575,10,2772
+2021-05-21,AF,Afghanistan,EMRO,505,65080,10,2782
+2021-05-22,AF,Afghanistan,EMRO,406,65486,10,2792
+2021-05-23,AF,Afghanistan,EMRO,242,65728,10,2802
+2021-05-24,AF,Afghanistan,EMRO,547,66275,10,2812
+2021-05-25,AF,Afghanistan,EMRO,628,66903,24,2836
+2021-05-26,AF,Afghanistan,EMRO,840,67743,19,2855
+2021-05-27,AF,Afghanistan,EMRO,623,68366,14,2869
+2021-05-28,AF,Afghanistan,EMRO,764,69130,12,2881
+2021-05-29,AF,Afghanistan,EMRO,981,70111,18,2899
+2021-05-30,AF,Afghanistan,EMRO,650,70761,20,2919
+2021-05-31,AF,Afghanistan,EMRO,1077,71838,25,2944
+2021-06-01,AF,Afghanistan,EMRO,1139,72977,29,2973
+2021-06-02,AF,Afghanistan,EMRO,1049,74026,34,3007
+2021-06-03,AF,Afghanistan,EMRO,1093,75119,27,3034
+2021-06-04,AF,Afghanistan,EMRO,1509,76628,34,3068
+2021-06-05,AF,Afghanistan,EMRO,1335,77963,36,3104
+2021-06-06,AF,Afghanistan,EMRO,1261,79224,41,3145
+2021-06-07,AF,Afghanistan,EMRO,1617,80841,42,3187
+2021-06-08,AF,Afghanistan,EMRO,1485,82326,64,3251
+2021-06-09,AF,Afghanistan,EMRO,1724,84050,54,3305
+2021-06-10,AF,Afghanistan,EMRO,1842,85892,51,3356
+2021-06-11,AF,Afghanistan,EMRO,1824,87716,56,3412
+2021-06-12,AF,Afghanistan,EMRO,1024,88740,37,3449
+2021-06-13,AF,Afghanistan,EMRO,1121,89861,78,3527
+2021-06-14,AF,Afghanistan,EMRO,1597,91458,85,3612
+2021-06-15,AF,Afghanistan,EMRO,1814,93272,71,3683
+2021-06-16,AF,Afghanistan,EMRO,16,93288,0,3683
+2021-06-17,AF,Afghanistan,EMRO,3243,96531,159,3842
+2021-06-18,AF,Afghanistan,EMRO,2203,98734,92,3934
+2021-06-19,AF,Afghanistan,EMRO,1787,100521,96,4030
+2021-06-20,AF,Afghanistan,EMRO,1385,101906,92,4122
+2021-06-21,AF,Afghanistan,EMRO,1996,103902,93,4215
+2021-06-22,AF,Afghanistan,EMRO,1847,105749,78,4293
+2021-06-23,AF,Afghanistan,EMRO,2208,107957,73,4366
+2021-06-24,AF,Afghanistan,EMRO,1575,109532,86,4452
+2021-06-25,AF,Afghanistan,EMRO,2060,111592,67,4519
+2021-06-26,AF,Afghanistan,EMRO,1532,113124,75,4594
+2021-06-27,AF,Afghanistan,EMRO,1096,114220,56,4650
+2021-06-28,AF,Afghanistan,EMRO,1531,115751,80,4730
+2021-06-29,AF,Afghanistan,EMRO,1407,117158,64,4794
+2021-06-30,AF,Afghanistan,EMRO,1501,118659,77,4871
+2021-07-01,AF,Afghanistan,EMRO,1557,120216,91,4962
+2021-07-02,AF,Afghanistan,EMRO,1940,122156,86,5048
+2021-07-03,AF,Afghanistan,EMRO,1329,123485,59,5107
+2021-07-04,AF,Afghanistan,EMRO,1263,124748,92,5199
+2021-07-05,AF,Afghanistan,EMRO,1189,125937,84,5283
+2021-07-06,AF,Afghanistan,EMRO,1527,127464,77,5360
+2021-07-07,AF,Afghanistan,EMRO,1557,129021,55,5415
+2021-07-08,AF,Afghanistan,EMRO,1092,130113,62,5477
+2021-07-09,AF,Afghanistan,EMRO,1473,131586,84,5561
+2021-07-10,AF,Afghanistan,EMRO,1191,132777,77,5638
+2021-07-11,AF,Afghanistan,EMRO,801,133578,86,5724
+2021-07-12,AF,Afghanistan,EMRO,1075,134653,67,5791
+2021-07-13,AF,Afghanistan,EMRO,1236,135889,58,5849
+2021-07-14,AF,Afghanistan,EMRO,754,136643,74,5923
+2021-07-15,AF,Afghanistan,EMRO,1210,137853,60,5983
+2021-07-16,AF,Afghanistan,EMRO,1198,139051,89,6072
+2021-07-17,AF,Afghanistan,EMRO,1173,140224,26,6098
+2021-07-18,AF,Afghanistan,EMRO,378,140602,49,6147
+2021-07-19,AF,Afghanistan,EMRO,897,141499,66,6213
+2021-07-20,AF,Afghanistan,EMRO,915,142414,53,6266
+2021-07-21,AF,Afghanistan,EMRO,348,142762,27,6293
+2021-07-22,AF,Afghanistan,EMRO,421,143183,32,6325
+2021-07-23,AF,Afghanistan,EMRO,256,143439,32,6357
+2021-07-24,AF,Afghanistan,EMRO,227,143666,36,6393
+2021-07-25,AF,Afghanistan,EMRO,205,143871,32,6425
+2021-07-26,AF,Afghanistan,EMRO,414,144285,52,6477
+2021-07-27,AF,Afghanistan,EMRO,723,145008,38,6515
+2021-07-28,AF,Afghanistan,EMRO,544,145552,62,6577
+2021-07-29,AF,Afghanistan,EMRO,444,145996,38,6615
+2021-07-30,AF,Afghanistan,EMRO,527,146523,62,6677
+2021-07-31,AF,Afghanistan,EMRO,631,147154,31,6708
+2021-08-01,AF,Afghanistan,EMRO,347,147501,29,6737
+2021-08-02,AF,Afghanistan,EMRO,484,147985,37,6774
+2021-08-03,AF,Afghanistan,EMRO,587,148572,30,6804
+2021-08-04,AF,Afghanistan,EMRO,361,148933,32,6836
+2021-08-05,AF,Afghanistan,EMRO,428,149361,28,6864
+2021-08-06,AF,Afghanistan,EMRO,449,149810,15,6879
+2021-08-07,AF,Afghanistan,EMRO,430,150240,18,6897
+2021-08-08,AF,Afghanistan,EMRO,218,150458,11,6908
+2021-08-09,AF,Afghanistan,EMRO,320,150778,28,6936
+2021-08-10,AF,Afghanistan,EMRO,235,151013,25,6961
+2021-08-11,AF,Afghanistan,EMRO,278,151291,17,6978
+2021-08-12,AF,Afghanistan,EMRO,272,151563,10,6988
+2021-08-13,AF,Afghanistan,EMRO,207,151770,12,7000
+2021-08-14,AF,Afghanistan,EMRO,171,151941,10,7010
+2021-08-15,AF,Afghanistan,EMRO,92,152033,11,7021
+2021-08-16,AF,Afghanistan,EMRO,109,152142,4,7025
+2021-08-17,AF,Afghanistan,EMRO,101,152243,6,7031
+2021-08-18,AF,Afghanistan,EMRO,120,152363,12,7043
+2021-08-19,AF,Afghanistan,EMRO,48,152411,4,7047
+2021-08-20,AF,Afghanistan,EMRO,37,152448,7,7054
+2021-08-21,AF,Afghanistan,EMRO,49,152497,11,7065
+2021-08-22,AF,Afghanistan,EMRO,14,152511,5,7070
+2021-08-23,AF,Afghanistan,EMRO,72,152583,6,7076
+2021-08-24,AF,Afghanistan,EMRO,77,152660,7,7083
+2021-08-25,AF,Afghanistan,EMRO,62,152722,7,7090
+2021-08-26,AF,Afghanistan,EMRO,100,152822,3,7093
+2021-08-27,AF,Afghanistan,EMRO,138,152960,8,7101
+2021-08-28,AF,Afghanistan,EMRO,47,153007,2,7103
+2021-08-29,AF,Afghanistan,EMRO,26,153033,6,7109
+2021-08-30,AF,Afghanistan,EMRO,115,153148,7,7116
+2021-08-31,AF,Afghanistan,EMRO,72,153220,2,7118
+2021-09-01,AF,Afghanistan,EMRO,40,153260,5,7123
+2021-09-02,AF,Afghanistan,EMRO,46,153306,4,7127
+2021-09-03,AF,Afghanistan,EMRO,69,153375,0,7127
+2021-09-04,AF,Afghanistan,EMRO,20,153395,1,7128
+2021-09-05,AF,Afghanistan,EMRO,28,153423,4,7132
+2021-09-06,AF,Afghanistan,EMRO,111,153534,9,7141
+2021-09-07,AF,Afghanistan,EMRO,92,153626,3,7144
+2021-09-08,AF,Afghanistan,EMRO,110,153736,7,7151
+2021-09-09,AF,Afghanistan,EMRO,104,153840,6,7157
+2021-09-10,AF,Afghanistan,EMRO,122,153962,7,7164
+2021-09-11,AF,Afghanistan,EMRO,20,153982,3,7167
+2021-09-12,AF,Afghanistan,EMRO,8,153990,0,7167
+2021-09-13,AF,Afghanistan,EMRO,104,154094,2,7169
+2021-09-14,AF,Afghanistan,EMRO,86,154180,2,7171
+2021-09-15,AF,Afghanistan,EMRO,103,154283,3,7174
+2021-09-16,AF,Afghanistan,EMRO,78,154361,9,7183
+2021-09-17,AF,Afghanistan,EMRO,126,154487,3,7186
+2021-09-18,AF,Afghanistan,EMRO,45,154532,9,7195
+2021-09-19,AF,Afghanistan,EMRO,7,154539,4,7199
+2021-09-20,AF,Afghanistan,EMRO,46,154585,0,7199
+2021-09-21,AF,Afghanistan,EMRO,127,154712,0,7199
+2021-09-22,AF,Afghanistan,EMRO,45,154757,0,7199
+2021-09-23,AF,Afghanistan,EMRO,43,154800,0,7199
+2021-09-24,AF,Afghanistan,EMRO,38,154838,0,7199
+2021-09-25,AF,Afghanistan,EMRO,59,154897,0,7199
+2021-09-26,AF,Afghanistan,EMRO,2,154899,0,7199
+2021-09-27,AF,Afghanistan,EMRO,51,154950,1,7200
+2021-09-28,AF,Afghanistan,EMRO,21,154971,1,7201
+2021-09-29,AF,Afghanistan,EMRO,35,155006,3,7204
+2021-09-30,AF,Afghanistan,EMRO,46,155052,0,7204
+2021-10-01,AF,Afghanistan,EMRO,17,155069,2,7206
+2021-10-02,AF,Afghanistan,EMRO,37,155106,3,7209
+2021-10-03,AF,Afghanistan,EMRO,35,155141,3,7212
+2021-10-04,AF,Afghanistan,EMRO,24,155165,0,7212
+2021-10-05,AF,Afghanistan,EMRO,22,155187,2,7214
+2021-10-06,AF,Afghanistan,EMRO,31,155218,2,7216
+2021-10-07,AF,Afghanistan,EMRO,42,155260,4,7220
+2021-10-08,AF,Afghanistan,EMRO,47,155307,1,7221
+2021-10-09,AF,Afghanistan,EMRO,19,155326,0,7221
+2021-10-10,AF,Afghanistan,EMRO,18,155344,0,7221
+2021-10-11,AF,Afghanistan,EMRO,43,155387,5,7226
+2021-10-12,AF,Afghanistan,EMRO,31,155418,2,7228
+2021-10-13,AF,Afghanistan,EMRO,59,155477,2,7230
+2021-10-14,AF,Afghanistan,EMRO,28,155505,4,7234
+2021-10-15,AF,Afghanistan,EMRO,55,155560,4,7238
+2021-10-16,AF,Afghanistan,EMRO,21,155581,0,7238
+2021-10-17,AF,Afghanistan,EMRO,36,155617,0,7238
+2021-10-18,AF,Afghanistan,EMRO,24,155641,5,7243
+2021-10-19,AF,Afghanistan,EMRO,13,155654,3,7246
+2021-10-20,AF,Afghanistan,EMRO,25,155679,1,7247
+2021-10-21,AF,Afghanistan,EMRO,58,155737,0,7247
+2021-10-22,AF,Afghanistan,EMRO,32,155769,2,7249
+2021-10-23,AF,Afghanistan,EMRO,40,155809,3,7252
+2021-10-24,AF,Afghanistan,EMRO,9,155818,1,7253
+2021-10-25,AF,Afghanistan,EMRO,45,155863,4,7257
+2021-10-26,AF,Afghanistan,EMRO,55,155918,3,7260
+2021-10-27,AF,Afghanistan,EMRO,31,155949,2,7262
+2021-10-28,AF,Afghanistan,EMRO,53,156002,4,7266
+2021-10-29,AF,Afghanistan,EMRO,42,156044,2,7268
+2021-10-30,AF,Afghanistan,EMRO,30,156074,1,7269
+2021-10-31,AF,Afghanistan,EMRO,14,156088,3,7272
+2021-11-01,AF,Afghanistan,EMRO,40,156128,8,7280
+2021-11-02,AF,Afghanistan,EMRO,34,156162,1,7281
+2021-11-03,AF,Afghanistan,EMRO,23,156185,0,7281
+2021-11-04,AF,Afghanistan,EMRO,16,156201,3,7284
+2021-11-05,AF,Afghanistan,EMRO,40,156241,0,7284
+2021-11-06,AF,Afghanistan,EMRO,29,156270,0,7284
+2021-11-07,AF,Afghanistan,EMRO,5,156275,0,7284
+2021-11-08,AF,Afghanistan,EMRO,20,156295,3,7287
+2021-11-09,AF,Afghanistan,EMRO,34,156329,1,7288
+2021-11-10,AF,Afghanistan,EMRO,36,156365,2,7290
+2021-11-11,AF,Afghanistan,EMRO,49,156414,1,7291
+2021-11-12,AF,Afghanistan,EMRO,42,156456,1,7292
+2021-11-13,AF,Afghanistan,EMRO,35,156491,0,7292
+2021-11-14,AF,Afghanistan,EMRO,21,156512,0,7292
+2021-11-15,AF,Afghanistan,EMRO,40,156552,1,7293
+2021-11-16,AF,Afghanistan,EMRO,58,156610,1,7294
+2021-11-17,AF,Afghanistan,EMRO,39,156649,1,7295
+2021-11-18,AF,Afghanistan,EMRO,90,156739,2,7297
+2021-11-19,AF,Afghanistan,EMRO,47,156786,2,7299
+2021-11-20,AF,Afghanistan,EMRO,44,156830,0,7299
+2021-11-21,AF,Afghanistan,EMRO,34,156864,2,7301
+2021-11-22,AF,Afghanistan,EMRO,47,156911,2,7303
+2021-11-23,AF,Afghanistan,EMRO,50,156961,0,7303
+2021-11-24,AF,Afghanistan,EMRO,54,157015,2,7305
+2021-11-25,AF,Afghanistan,EMRO,17,157032,1,7306
+2021-11-26,AF,Afghanistan,EMRO,112,157144,1,7307
+2021-11-27,AF,Afghanistan,EMRO,27,157171,0,7307
+2021-11-28,AF,Afghanistan,EMRO,19,157190,1,7308
+2021-11-29,AF,Afghanistan,EMRO,28,157218,0,7308
+2021-11-30,AF,Afghanistan,EMRO,42,157260,0,7308
+2021-12-01,AF,Afghanistan,EMRO,29,157289,0,7308
+2021-12-02,AF,Afghanistan,EMRO,70,157359,1,7309
+2021-12-03,AF,Afghanistan,EMRO,28,157387,1,7310
+2021-12-04,AF,Afghanistan,EMRO,20,157407,0,7310
+2021-12-05,AF,Afghanistan,EMRO,24,157431,2,7312
+2021-12-06,AF,Afghanistan,EMRO,23,157454,0,7312
+2021-12-07,AF,Afghanistan,EMRO,45,157499,4,7316
+2021-12-08,AF,Afghanistan,EMRO,9,157508,1,7317
+2021-12-09,AF,Afghanistan,EMRO,34,157542,2,7319
+2021-12-10,AF,Afghanistan,EMRO,43,157585,2,7321
+2021-12-11,AF,Afghanistan,EMRO,18,157603,3,7324
+2021-12-12,AF,Afghanistan,EMRO,8,157611,1,7325
+2021-12-13,AF,Afghanistan,EMRO,22,157633,3,7328
+2021-12-14,AF,Afghanistan,EMRO,15,157648,0,7328
+2021-12-15,AF,Afghanistan,EMRO,12,157660,1,7329
+2021-12-16,AF,Afghanistan,EMRO,5,157665,2,7331
+2021-12-17,AF,Afghanistan,EMRO,60,157725,1,7332
+2021-12-18,AF,Afghanistan,EMRO,9,157734,0,7332
+2021-12-19,AF,Afghanistan,EMRO,11,157745,1,7333
+2021-12-20,AF,Afghanistan,EMRO,42,157787,2,7335
+2021-12-21,AF,Afghanistan,EMRO,10,157797,0,7335
+2021-12-22,AF,Afghanistan,EMRO,19,157816,0,7335
+2021-12-23,AF,Afghanistan,EMRO,25,157841,6,7341
+2021-12-24,AF,Afghanistan,EMRO,37,157878,5,7346
+2021-12-25,AF,Afghanistan,EMRO,9,157887,2,7348
+2021-12-26,AF,Afghanistan,EMRO,15,157902,4,7352
+2021-12-27,AF,Afghanistan,EMRO,49,157951,2,7354
+2021-12-28,AF,Afghanistan,EMRO,16,157967,0,7354
+2021-12-29,AF,Afghanistan,EMRO,31,157998,1,7355
+2021-12-30,AF,Afghanistan,EMRO,41,158039,1,7356
+2021-12-31,AF,Afghanistan,EMRO,20,158059,0,7356
+2020-01-03,IQ,Iraq,EMRO,0,0,0,0
+2020-01-04,IQ,Iraq,EMRO,0,0,0,0
+2020-01-05,IQ,Iraq,EMRO,0,0,0,0
+2020-01-06,IQ,Iraq,EMRO,0,0,0,0
+2020-01-07,IQ,Iraq,EMRO,0,0,0,0
+2020-01-08,IQ,Iraq,EMRO,0,0,0,0
+2020-01-09,IQ,Iraq,EMRO,0,0,0,0
+2020-01-10,IQ,Iraq,EMRO,0,0,0,0
+2020-01-11,IQ,Iraq,EMRO,0,0,0,0
+2020-01-12,IQ,Iraq,EMRO,0,0,0,0
+2020-01-13,IQ,Iraq,EMRO,0,0,0,0
+2020-01-14,IQ,Iraq,EMRO,0,0,0,0
+2020-01-15,IQ,Iraq,EMRO,0,0,0,0
+2020-01-16,IQ,Iraq,EMRO,0,0,0,0
+2020-01-17,IQ,Iraq,EMRO,0,0,0,0
+2020-01-18,IQ,Iraq,EMRO,0,0,0,0
+2020-01-19,IQ,Iraq,EMRO,0,0,0,0
+2020-01-20,IQ,Iraq,EMRO,0,0,0,0
+2020-01-21,IQ,Iraq,EMRO,0,0,0,0
+2020-01-22,IQ,Iraq,EMRO,0,0,0,0
+2020-01-23,IQ,Iraq,EMRO,0,0,0,0
+2020-01-24,IQ,Iraq,EMRO,0,0,0,0
+2020-01-25,IQ,Iraq,EMRO,0,0,0,0
+2020-01-26,IQ,Iraq,EMRO,0,0,0,0
+2020-01-27,IQ,Iraq,EMRO,0,0,0,0
+2020-01-28,IQ,Iraq,EMRO,0,0,0,0
+2020-01-29,IQ,Iraq,EMRO,0,0,0,0
+2020-01-30,IQ,Iraq,EMRO,0,0,0,0
+2020-01-31,IQ,Iraq,EMRO,0,0,0,0
+2020-02-01,IQ,Iraq,EMRO,0,0,0,0
+2020-02-02,IQ,Iraq,EMRO,0,0,0,0
+2020-02-03,IQ,Iraq,EMRO,0,0,0,0
+2020-02-04,IQ,Iraq,EMRO,0,0,0,0
+2020-02-05,IQ,Iraq,EMRO,0,0,0,0
+2020-02-06,IQ,Iraq,EMRO,0,0,0,0
+2020-02-07,IQ,Iraq,EMRO,0,0,0,0
+2020-02-08,IQ,Iraq,EMRO,0,0,0,0
+2020-02-09,IQ,Iraq,EMRO,0,0,0,0
+2020-02-10,IQ,Iraq,EMRO,0,0,0,0
+2020-02-11,IQ,Iraq,EMRO,0,0,0,0
+2020-02-12,IQ,Iraq,EMRO,0,0,0,0
+2020-02-13,IQ,Iraq,EMRO,0,0,0,0
+2020-02-14,IQ,Iraq,EMRO,0,0,0,0
+2020-02-15,IQ,Iraq,EMRO,0,0,0,0
+2020-02-16,IQ,Iraq,EMRO,0,0,0,0
+2020-02-17,IQ,Iraq,EMRO,0,0,0,0
+2020-02-18,IQ,Iraq,EMRO,0,0,0,0
+2020-02-19,IQ,Iraq,EMRO,0,0,0,0
+2020-02-20,IQ,Iraq,EMRO,0,0,0,0
+2020-02-21,IQ,Iraq,EMRO,0,0,0,0
+2020-02-22,IQ,Iraq,EMRO,0,0,0,0
+2020-02-23,IQ,Iraq,EMRO,0,0,0,0
+2020-02-24,IQ,Iraq,EMRO,5,5,0,0
+2020-02-25,IQ,Iraq,EMRO,4,9,0,0
+2020-02-26,IQ,Iraq,EMRO,0,9,0,0
+2020-02-27,IQ,Iraq,EMRO,1,10,0,0
+2020-02-28,IQ,Iraq,EMRO,1,11,0,0
+2020-02-29,IQ,Iraq,EMRO,6,17,0,0
+2020-03-01,IQ,Iraq,EMRO,6,23,0,0
+2020-03-02,IQ,Iraq,EMRO,2,25,0,0
+2020-03-03,IQ,Iraq,EMRO,10,35,0,0
+2020-03-04,IQ,Iraq,EMRO,0,35,1,1
+2020-03-05,IQ,Iraq,EMRO,5,40,1,2
+2020-03-06,IQ,Iraq,EMRO,8,48,2,4
+2020-03-07,IQ,Iraq,EMRO,10,58,0,4
+2020-03-08,IQ,Iraq,EMRO,6,64,0,4
+2020-03-09,IQ,Iraq,EMRO,0,64,2,6
+2020-03-10,IQ,Iraq,EMRO,1,65,0,6
+2020-03-11,IQ,Iraq,EMRO,9,74,1,7
+2020-03-12,IQ,Iraq,EMRO,0,74,0,7
+2020-03-13,IQ,Iraq,EMRO,0,74,0,7
+2020-03-14,IQ,Iraq,EMRO,23,97,2,9
+2020-03-15,IQ,Iraq,EMRO,31,128,0,9
+2020-03-16,IQ,Iraq,EMRO,0,128,0,9
+2020-03-17,IQ,Iraq,EMRO,30,158,2,11
+2020-03-18,IQ,Iraq,EMRO,10,168,1,12
+2020-03-19,IQ,Iraq,EMRO,13,181,0,12
+2020-03-20,IQ,Iraq,EMRO,12,193,2,14
+2020-03-21,IQ,Iraq,EMRO,21,214,3,17
+2020-03-22,IQ,Iraq,EMRO,19,233,3,20
+2020-03-23,IQ,Iraq,EMRO,33,266,3,23
+2020-03-24,IQ,Iraq,EMRO,50,316,4,27
+2020-03-25,IQ,Iraq,EMRO,30,346,2,29
+2020-03-26,IQ,Iraq,EMRO,36,382,7,36
+2020-03-27,IQ,Iraq,EMRO,76,458,4,40
+2020-03-28,IQ,Iraq,EMRO,48,506,2,42
+2020-03-29,IQ,Iraq,EMRO,41,547,0,42
+2020-03-30,IQ,Iraq,EMRO,0,547,0,42
+2020-03-31,IQ,Iraq,EMRO,83,630,4,46
+2020-04-01,IQ,Iraq,EMRO,64,694,4,50
+2020-04-02,IQ,Iraq,EMRO,34,728,2,52
+2020-04-03,IQ,Iraq,EMRO,92,820,2,54
+2020-04-04,IQ,Iraq,EMRO,58,878,2,56
+2020-04-05,IQ,Iraq,EMRO,0,878,0,56
+2020-04-06,IQ,Iraq,EMRO,83,961,5,61
+2020-04-07,IQ,Iraq,EMRO,70,1031,3,64
+2020-04-08,IQ,Iraq,EMRO,91,1122,1,65
+2020-04-09,IQ,Iraq,EMRO,80,1202,4,69
+2020-04-10,IQ,Iraq,EMRO,30,1232,0,69
+2020-04-11,IQ,Iraq,EMRO,48,1280,2,71
+2020-04-12,IQ,Iraq,EMRO,38,1318,1,72
+2020-04-13,IQ,Iraq,EMRO,34,1352,4,76
+2020-04-14,IQ,Iraq,EMRO,26,1378,2,78
+2020-04-15,IQ,Iraq,EMRO,22,1400,0,78
+2020-04-16,IQ,Iraq,EMRO,15,1415,1,79
+2020-04-17,IQ,Iraq,EMRO,19,1434,1,80
+2020-04-18,IQ,Iraq,EMRO,48,1482,1,81
+2020-04-19,IQ,Iraq,EMRO,31,1513,1,82
+2020-04-20,IQ,Iraq,EMRO,26,1539,0,82
+2020-04-21,IQ,Iraq,EMRO,35,1574,0,82
+2020-04-22,IQ,Iraq,EMRO,28,1602,1,83
+2020-04-23,IQ,Iraq,EMRO,29,1631,0,83
+2020-04-24,IQ,Iraq,EMRO,46,1677,0,83
+2020-04-25,IQ,Iraq,EMRO,31,1708,3,86
+2020-04-26,IQ,Iraq,EMRO,55,1763,0,86
+2020-04-27,IQ,Iraq,EMRO,57,1820,1,87
+2020-04-28,IQ,Iraq,EMRO,27,1847,1,88
+2020-04-29,IQ,Iraq,EMRO,81,1928,2,90
+2020-04-30,IQ,Iraq,EMRO,75,2003,2,92
+2020-05-01,IQ,Iraq,EMRO,82,2085,1,93
+2020-05-02,IQ,Iraq,EMRO,68,2153,1,94
+2020-05-03,IQ,Iraq,EMRO,66,2219,1,95
+2020-05-04,IQ,Iraq,EMRO,0,2219,0,95
+2020-05-05,IQ,Iraq,EMRO,127,2346,3,98
+2020-05-06,IQ,Iraq,EMRO,85,2431,4,102
+2020-05-07,IQ,Iraq,EMRO,49,2480,0,102
+2020-05-08,IQ,Iraq,EMRO,63,2543,0,102
+2020-05-09,IQ,Iraq,EMRO,60,2603,2,104
+2020-05-10,IQ,Iraq,EMRO,76,2679,3,107
+2020-05-11,IQ,Iraq,EMRO,88,2767,2,109
+2020-05-12,IQ,Iraq,EMRO,51,2818,1,110
+2020-05-13,IQ,Iraq,EMRO,95,2913,2,112
+2020-05-14,IQ,Iraq,EMRO,119,3032,3,115
+2020-05-15,IQ,Iraq,EMRO,111,3143,0,115
+2020-05-16,IQ,Iraq,EMRO,50,3193,2,117
+2020-05-17,IQ,Iraq,EMRO,67,3260,4,121
+2020-05-18,IQ,Iraq,EMRO,144,3404,2,123
+2020-05-19,IQ,Iraq,EMRO,150,3554,4,127
+2020-05-20,IQ,Iraq,EMRO,57,3611,4,131
+2020-05-21,IQ,Iraq,EMRO,113,3724,3,134
+2020-05-22,IQ,Iraq,EMRO,153,3877,6,140
+2020-05-23,IQ,Iraq,EMRO,87,3964,7,147
+2020-05-24,IQ,Iraq,EMRO,308,4272,5,152
+2020-05-25,IQ,Iraq,EMRO,197,4469,8,160
+2020-05-26,IQ,Iraq,EMRO,163,4632,3,163
+2020-05-27,IQ,Iraq,EMRO,216,4848,6,169
+2020-05-28,IQ,Iraq,EMRO,287,5135,6,175
+2020-05-29,IQ,Iraq,EMRO,322,5457,4,179
+2020-05-30,IQ,Iraq,EMRO,416,5873,6,185
+2020-05-31,IQ,Iraq,EMRO,306,6179,10,195
+2020-06-01,IQ,Iraq,EMRO,260,6439,10,205
+2020-06-02,IQ,Iraq,EMRO,429,6868,10,215
+2020-06-03,IQ,Iraq,EMRO,519,7387,20,235
+2020-06-04,IQ,Iraq,EMRO,781,8168,21,256
+2020-06-05,IQ,Iraq,EMRO,672,8840,15,271
+2020-06-06,IQ,Iraq,EMRO,1006,9846,14,285
+2020-06-07,IQ,Iraq,EMRO,1252,11098,33,318
+2020-06-08,IQ,Iraq,EMRO,1268,12366,28,346
+2020-06-09,IQ,Iraq,EMRO,1115,13481,24,370
+2020-06-10,IQ,Iraq,EMRO,787,14268,22,392
+2020-06-11,IQ,Iraq,EMRO,1146,15414,34,426
+2020-06-12,IQ,Iraq,EMRO,1261,16675,31,457
+2020-06-13,IQ,Iraq,EMRO,1095,17770,39,496
+2020-06-14,IQ,Iraq,EMRO,1180,18950,53,549
+2020-06-15,IQ,Iraq,EMRO,1259,20209,58,607
+2020-06-16,IQ,Iraq,EMRO,1106,21315,45,652
+2020-06-17,IQ,Iraq,EMRO,1385,22700,60,712
+2020-06-18,IQ,Iraq,EMRO,1554,24254,61,773
+2020-06-19,IQ,Iraq,EMRO,1463,25717,83,856
+2020-06-20,IQ,Iraq,EMRO,1635,27352,69,925
+2020-06-21,IQ,Iraq,EMRO,1870,29222,88,1013
+2020-06-22,IQ,Iraq,EMRO,1646,30868,87,1100
+2020-06-23,IQ,Iraq,EMRO,1808,32676,67,1167
+2020-06-24,IQ,Iraq,EMRO,1826,34502,84,1251
+2020-06-25,IQ,Iraq,EMRO,2200,36702,79,1330
+2020-06-26,IQ,Iraq,EMRO,2437,39139,107,1437
+2020-06-27,IQ,Iraq,EMRO,2054,41193,122,1559
+2020-06-28,IQ,Iraq,EMRO,2069,43262,101,1660
+2020-06-29,IQ,Iraq,EMRO,2140,45402,96,1756
+2020-06-30,IQ,Iraq,EMRO,1749,47151,83,1839
+2020-07-01,IQ,Iraq,EMRO,1958,49109,104,1943
+2020-07-02,IQ,Iraq,EMRO,2415,51524,107,2050
+2020-07-03,IQ,Iraq,EMRO,2184,53708,110,2160
+2020-07-04,IQ,Iraq,EMRO,2312,56020,102,2262
+2020-07-05,IQ,Iraq,EMRO,2334,58354,106,2368
+2020-07-06,IQ,Iraq,EMRO,2125,60479,105,2473
+2020-07-07,IQ,Iraq,EMRO,1796,62275,94,2567
+2020-07-08,IQ,Iraq,EMRO,2426,64701,118,2685
+2020-07-09,IQ,Iraq,EMRO,2741,67442,94,2779
+2020-07-10,IQ,Iraq,EMRO,2170,69612,103,2882
+2020-07-11,IQ,Iraq,EMRO,2848,72460,78,2960
+2020-07-12,IQ,Iraq,EMRO,2734,75194,95,3055
+2020-07-13,IQ,Iraq,EMRO,2312,77506,95,3150
+2020-07-14,IQ,Iraq,EMRO,2229,79735,100,3250
+2020-07-15,IQ,Iraq,EMRO,2022,81757,95,3345
+2020-07-16,IQ,Iraq,EMRO,2110,83867,87,3432
+2020-07-17,IQ,Iraq,EMRO,2281,86148,90,3522
+2020-07-18,IQ,Iraq,EMRO,2023,88171,94,3616
+2020-07-19,IQ,Iraq,EMRO,2049,90220,75,3691
+2020-07-20,IQ,Iraq,EMRO,2310,92530,90,3781
+2020-07-21,IQ,Iraq,EMRO,2163,94693,88,3869
+2020-07-22,IQ,Iraq,EMRO,2466,97159,81,3950
+2020-07-23,IQ,Iraq,EMRO,2706,99865,92,4042
+2020-07-24,IQ,Iraq,EMRO,2361,102226,80,4122
+2020-07-25,IQ,Iraq,EMRO,2485,104711,90,4212
+2020-07-26,IQ,Iraq,EMRO,2862,107573,72,4284
+2020-07-27,IQ,Iraq,EMRO,2459,110032,78,4362
+2020-07-28,IQ,Iraq,EMRO,2553,112585,96,4458
+2020-07-29,IQ,Iraq,EMRO,2747,115332,77,4535
+2020-07-30,IQ,Iraq,EMRO,2968,118300,68,4603
+2020-07-31,IQ,Iraq,EMRO,2963,121263,68,4671
+2020-08-01,IQ,Iraq,EMRO,3346,124609,70,4741
+2020-08-02,IQ,Iraq,EMRO,2095,126704,64,4805
+2020-08-03,IQ,Iraq,EMRO,2447,129151,63,4868
+2020-08-04,IQ,Iraq,EMRO,2735,131886,66,4934
+2020-08-05,IQ,Iraq,EMRO,2836,134722,83,5017
+2020-08-06,IQ,Iraq,EMRO,2834,137556,77,5094
+2020-08-07,IQ,Iraq,EMRO,3047,140603,67,5161
+2020-08-08,IQ,Iraq,EMRO,3461,144064,75,5236
+2020-08-09,IQ,Iraq,EMRO,3325,147389,74,5310
+2020-08-10,IQ,Iraq,EMRO,2726,150115,82,5392
+2020-08-11,IQ,Iraq,EMRO,3484,153599,72,5464
+2020-08-12,IQ,Iraq,EMRO,3396,156995,67,5531
+2020-08-13,IQ,Iraq,EMRO,3441,160436,57,5588
+2020-08-14,IQ,Iraq,EMRO,3841,164277,53,5641
+2020-08-15,IQ,Iraq,EMRO,4013,168290,68,5709
+2020-08-16,IQ,Iraq,EMRO,4293,172583,76,5785
+2020-08-17,IQ,Iraq,EMRO,4348,176931,75,5860
+2020-08-18,IQ,Iraq,EMRO,3202,180133,94,5954
+2020-08-19,IQ,Iraq,EMRO,4576,184709,82,6036
+2020-08-20,IQ,Iraq,EMRO,4093,188802,85,6121
+2020-08-21,IQ,Iraq,EMRO,3995,192797,87,6208
+2020-08-22,IQ,Iraq,EMRO,4288,197085,75,6283
+2020-08-23,IQ,Iraq,EMRO,3965,201050,70,6353
+2020-08-24,IQ,Iraq,EMRO,3291,204341,75,6428
+2020-08-25,IQ,Iraq,EMRO,3644,207985,91,6519
+2020-08-26,IQ,Iraq,EMRO,3962,211947,77,6596
+2020-08-27,IQ,Iraq,EMRO,3837,215784,72,6668
+2020-08-28,IQ,Iraq,EMRO,3651,219435,72,6740
+2020-08-29,IQ,Iraq,EMRO,4177,223612,74,6814
+2020-08-30,IQ,Iraq,EMRO,3834,227446,77,6891
+2020-08-31,IQ,Iraq,EMRO,3731,231177,68,6959
+2020-09-01,IQ,Iraq,EMRO,3757,234934,83,7042
+2020-09-02,IQ,Iraq,EMRO,3404,238338,81,7123
+2020-09-03,IQ,Iraq,EMRO,3946,242284,78,7201
+2020-09-04,IQ,Iraq,EMRO,4755,247039,74,7275
+2020-09-05,IQ,Iraq,EMRO,5036,252075,84,7359
+2020-09-06,IQ,Iraq,EMRO,4644,256719,63,7422
+2020-09-07,IQ,Iraq,EMRO,3651,260370,90,7512
+2020-09-08,IQ,Iraq,EMRO,4314,264684,77,7589
+2020-09-09,IQ,Iraq,EMRO,4894,269578,68,7657
+2020-09-10,IQ,Iraq,EMRO,4243,273821,75,7732
+2020-09-11,IQ,Iraq,EMRO,4597,278418,82,7814
+2020-09-12,IQ,Iraq,EMRO,4254,282672,67,7881
+2020-09-13,IQ,Iraq,EMRO,4106,286778,60,7941
+2020-09-14,IQ,Iraq,EMRO,3531,290309,73,8014
+2020-09-15,IQ,Iraq,EMRO,4169,294478,72,8086
+2020-09-16,IQ,Iraq,EMRO,4224,298702,80,8166
+2020-09-17,IQ,Iraq,EMRO,4357,303059,82,8248
+2020-09-18,IQ,Iraq,EMRO,4326,307385,84,8332
+2020-09-19,IQ,Iraq,EMRO,4305,311690,76,8408
+2020-09-20,IQ,Iraq,EMRO,3907,315597,83,8491
+2020-09-21,IQ,Iraq,EMRO,3438,319035,64,8555
+2020-09-22,IQ,Iraq,EMRO,3821,322856,70,8625
+2020-09-23,IQ,Iraq,EMRO,4724,327580,57,8682
+2020-09-24,IQ,Iraq,EMRO,5055,332635,72,8754
+2020-09-25,IQ,Iraq,EMRO,4471,337106,45,8799
+2020-09-26,IQ,Iraq,EMRO,4593,341699,68,8867
+2020-09-27,IQ,Iraq,EMRO,4270,345969,68,8935
+2020-09-28,IQ,Iraq,EMRO,3481,349450,55,8990
+2020-09-29,IQ,Iraq,EMRO,4116,353566,62,9052
+2020-09-30,IQ,Iraq,EMRO,4724,358290,70,9122
+2020-10-01,IQ,Iraq,EMRO,4691,362981,59,9181
+2020-10-02,IQ,Iraq,EMRO,4493,367474,50,9231
+2020-10-03,IQ,Iraq,EMRO,4785,372259,67,9298
+2020-10-04,IQ,Iraq,EMRO,3672,375931,49,9347
+2020-10-05,IQ,Iraq,EMRO,3210,379141,52,9399
+2020-10-06,IQ,Iraq,EMRO,3808,382949,65,9464
+2020-10-07,IQ,Iraq,EMRO,4172,387121,67,9531
+2020-10-08,IQ,Iraq,EMRO,3923,391044,73,9604
+2020-10-09,IQ,Iraq,EMRO,3522,394566,79,9683
+2020-10-10,IQ,Iraq,EMRO,3214,397780,52,9735
+2020-10-11,IQ,Iraq,EMRO,2344,400124,55,9790
+2020-10-12,IQ,Iraq,EMRO,2206,402330,62,9852
+2020-10-13,IQ,Iraq,EMRO,3107,405437,60,9912
+2020-10-14,IQ,Iraq,EMRO,3921,409358,58,9970
+2020-10-15,IQ,Iraq,EMRO,3857,413215,51,10021
+2020-10-16,IQ,Iraq,EMRO,3587,416802,65,10086
+2020-10-17,IQ,Iraq,EMRO,3501,420303,56,10142
+2020-10-18,IQ,Iraq,EMRO,3221,423524,56,10198
+2020-10-19,IQ,Iraq,EMRO,3110,426634,56,10254
+2020-10-20,IQ,Iraq,EMRO,4044,430678,63,10317
+2020-10-21,IQ,Iraq,EMRO,3920,434598,49,10366
+2020-10-22,IQ,Iraq,EMRO,3667,438265,52,10418
+2020-10-23,IQ,Iraq,EMRO,3899,442164,47,10465
+2020-10-24,IQ,Iraq,EMRO,3785,445949,48,10513
+2020-10-25,IQ,Iraq,EMRO,3204,449153,55,10568
+2020-10-26,IQ,Iraq,EMRO,2554,451707,55,10623
+2020-10-27,IQ,Iraq,EMRO,3691,455398,48,10671
+2020-10-28,IQ,Iraq,EMRO,4510,459908,53,10724
+2020-10-29,IQ,Iraq,EMRO,4043,463951,46,10770
+2020-10-30,IQ,Iraq,EMRO,3804,467755,45,10815
+2020-10-31,IQ,Iraq,EMRO,2878,470633,47,10862
+2020-11-01,IQ,Iraq,EMRO,1997,472630,48,10910
+2020-11-02,IQ,Iraq,EMRO,2658,475288,56,10966
+2020-11-03,IQ,Iraq,EMRO,3413,478701,51,11017
+2020-11-04,IQ,Iraq,EMRO,3595,482296,51,11068
+2020-11-05,IQ,Iraq,EMRO,3574,485870,60,11128
+2020-11-06,IQ,Iraq,EMRO,3701,489571,47,11175
+2020-11-07,IQ,Iraq,EMRO,3568,493139,69,11244
+2020-11-08,IQ,Iraq,EMRO,2880,496019,39,11283
+2020-11-09,IQ,Iraq,EMRO,2530,498549,44,11327
+2020-11-10,IQ,Iraq,EMRO,3184,501733,53,11380
+2020-11-11,IQ,Iraq,EMRO,3577,505310,52,11432
+2020-11-12,IQ,Iraq,EMRO,3198,508508,50,11482
+2020-11-13,IQ,Iraq,EMRO,3298,511806,50,11532
+2020-11-14,IQ,Iraq,EMRO,2690,514496,48,11580
+2020-11-15,IQ,Iraq,EMRO,2419,516915,43,11623
+2020-11-16,IQ,Iraq,EMRO,2237,519152,47,11670
+2020-11-17,IQ,Iraq,EMRO,2390,521542,42,11712
+2020-11-18,IQ,Iraq,EMRO,2961,524503,40,11752
+2020-11-19,IQ,Iraq,EMRO,2349,526852,43,11795
+2020-11-20,IQ,Iraq,EMRO,2374,529226,39,11834
+2020-11-21,IQ,Iraq,EMRO,2543,531769,49,11883
+2020-11-22,IQ,Iraq,EMRO,1786,533555,42,11925
+2020-11-23,IQ,Iraq,EMRO,1766,535321,33,11958
+2020-11-24,IQ,Iraq,EMRO,2136,537457,38,11996
+2020-11-25,IQ,Iraq,EMRO,2292,539749,35,12031
+2020-11-26,IQ,Iraq,EMRO,2438,542187,55,12086
+2020-11-27,IQ,Iraq,EMRO,2483,544670,39,12125
+2020-11-28,IQ,Iraq,EMRO,2545,547215,42,12167
+2020-11-29,IQ,Iraq,EMRO,1606,548821,33,12200
+2020-11-30,IQ,Iraq,EMRO,1614,550435,24,12224
+2020-12-01,IQ,Iraq,EMRO,2114,552549,34,12258
+2020-12-02,IQ,Iraq,EMRO,2218,554767,48,12306
+2020-12-03,IQ,Iraq,EMRO,1961,556728,34,12340
+2020-12-04,IQ,Iraq,EMRO,2039,558767,21,12361
+2020-12-05,IQ,Iraq,EMRO,1855,560622,26,12387
+2020-12-06,IQ,Iraq,EMRO,1898,562520,24,12411
+2020-12-07,IQ,Iraq,EMRO,1680,564200,21,12432
+2020-12-08,IQ,Iraq,EMRO,1815,566015,28,12460
+2020-12-09,IQ,Iraq,EMRO,2123,568138,17,12477
+2020-12-10,IQ,Iraq,EMRO,1735,569873,24,12501
+2020-12-11,IQ,Iraq,EMRO,1380,571253,25,12526
+2020-12-12,IQ,Iraq,EMRO,1347,572600,23,12549
+2020-12-13,IQ,Iraq,EMRO,1022,573622,16,12565
+2020-12-14,IQ,Iraq,EMRO,1012,574634,14,12579
+2020-12-15,IQ,Iraq,EMRO,1338,575972,24,12603
+2020-12-16,IQ,Iraq,EMRO,1391,577363,11,12614
+2020-12-17,IQ,Iraq,EMRO,1553,578916,22,12636
+2020-12-18,IQ,Iraq,EMRO,1533,580449,14,12650
+2020-12-19,IQ,Iraq,EMRO,1362,581811,20,12670
+2020-12-20,IQ,Iraq,EMRO,1307,583118,10,12680
+2020-12-21,IQ,Iraq,EMRO,1027,584145,17,12697
+2020-12-22,IQ,Iraq,EMRO,1200,585345,13,12710
+2020-12-23,IQ,Iraq,EMRO,1158,586503,15,12725
+2020-12-24,IQ,Iraq,EMRO,1173,587676,12,12737
+2020-12-25,IQ,Iraq,EMRO,1127,588803,7,12744
+2020-12-26,IQ,Iraq,EMRO,1140,589943,11,12755
+2020-12-27,IQ,Iraq,EMRO,836,590779,12,12767
+2020-12-28,IQ,Iraq,EMRO,818,591597,13,12780
+2020-12-29,IQ,Iraq,EMRO,931,592528,11,12791
+2020-12-30,IQ,Iraq,EMRO,1013,593541,9,12800
+2020-12-31,IQ,Iraq,EMRO,901,594442,8,12808
+2021-01-01,IQ,Iraq,EMRO,849,595291,5,12813
+2021-01-02,IQ,Iraq,EMRO,902,596193,11,12824
+2021-01-03,IQ,Iraq,EMRO,840,597033,5,12829
+2021-01-04,IQ,Iraq,EMRO,741,597774,5,12834
+2021-01-05,IQ,Iraq,EMRO,595,598369,10,12844
+2021-01-06,IQ,Iraq,EMRO,757,599126,12,12856
+2021-01-07,IQ,Iraq,EMRO,839,599965,9,12865
+2021-01-08,IQ,Iraq,EMRO,790,600755,4,12869
+2021-01-09,IQ,Iraq,EMRO,669,601424,8,12877
+2021-01-10,IQ,Iraq,EMRO,907,602331,4,12881
+2021-01-11,IQ,Iraq,EMRO,607,602938,14,12895
+2021-01-12,IQ,Iraq,EMRO,801,603739,11,12906
+2021-01-13,IQ,Iraq,EMRO,810,604549,5,12911
+2021-01-14,IQ,Iraq,EMRO,867,605416,4,12915
+2021-01-15,IQ,Iraq,EMRO,770,606186,7,12922
+2021-01-16,IQ,Iraq,EMRO,805,606991,10,12932
+2021-01-17,IQ,Iraq,EMRO,596,607587,3,12935
+2021-01-18,IQ,Iraq,EMRO,645,608232,9,12944
+2021-01-19,IQ,Iraq,EMRO,797,609029,9,12953
+2021-01-20,IQ,Iraq,EMRO,823,609852,9,12962
+2021-01-21,IQ,Iraq,EMRO,746,610598,6,12968
+2021-01-22,IQ,Iraq,EMRO,809,611407,9,12977
+2021-01-23,IQ,Iraq,EMRO,685,612092,7,12984
+2021-01-24,IQ,Iraq,EMRO,778,612870,4,12988
+2021-01-25,IQ,Iraq,EMRO,893,613763,5,12993
+2021-01-26,IQ,Iraq,EMRO,813,614576,7,13000
+2021-01-27,IQ,Iraq,EMRO,804,615380,10,13010
+2021-01-28,IQ,Iraq,EMRO,879,616259,8,13018
+2021-01-29,IQ,Iraq,EMRO,943,617202,6,13024
+2021-01-30,IQ,Iraq,EMRO,945,618147,12,13036
+2021-01-31,IQ,Iraq,EMRO,775,618922,5,13041
+2021-02-01,IQ,Iraq,EMRO,714,619636,6,13047
+2021-02-02,IQ,Iraq,EMRO,984,620620,10,13057
+2021-02-03,IQ,Iraq,EMRO,1135,621755,11,13068
+2021-02-04,IQ,Iraq,EMRO,1317,623072,11,13079
+2021-02-05,IQ,Iraq,EMRO,1150,624222,12,13091
+2021-02-06,IQ,Iraq,EMRO,1534,625756,12,13103
+2021-02-07,IQ,Iraq,EMRO,1660,627416,8,13111
+2021-02-08,IQ,Iraq,EMRO,1134,628550,9,13120
+2021-02-09,IQ,Iraq,EMRO,1713,630263,6,13126
+2021-02-10,IQ,Iraq,EMRO,1994,632257,8,13134
+2021-02-11,IQ,Iraq,EMRO,2282,634539,6,13140
+2021-02-12,IQ,Iraq,EMRO,2369,636908,4,13144
+2021-02-13,IQ,Iraq,EMRO,2530,639438,13,13157
+2021-02-14,IQ,Iraq,EMRO,2190,641628,7,13164
+2021-02-15,IQ,Iraq,EMRO,2224,643852,15,13179
+2021-02-16,IQ,Iraq,EMRO,2798,646650,6,13185
+2021-02-17,IQ,Iraq,EMRO,3332,649982,7,13192
+2021-02-18,IQ,Iraq,EMRO,3575,653557,12,13204
+2021-02-19,IQ,Iraq,EMRO,3896,657453,16,13220
+2021-02-20,IQ,Iraq,EMRO,4024,661477,12,13232
+2021-02-21,IQ,Iraq,EMRO,3273,664750,13,13245
+2021-02-22,IQ,Iraq,EMRO,3187,667937,27,13272
+2021-02-23,IQ,Iraq,EMRO,3864,671801,23,13295
+2021-02-24,IQ,Iraq,EMRO,4181,675982,16,13311
+2021-02-25,IQ,Iraq,EMRO,4306,680288,13,13324
+2021-02-26,IQ,Iraq,EMRO,4074,684362,27,13351
+2021-02-27,IQ,Iraq,EMRO,4336,688698,14,13365
+2021-02-28,IQ,Iraq,EMRO,3543,692241,18,13383
+2021-03-01,IQ,Iraq,EMRO,3248,695489,23,13406
+2021-03-02,IQ,Iraq,EMRO,3599,699088,22,13428
+2021-03-03,IQ,Iraq,EMRO,4690,703778,30,13458
+2021-03-04,IQ,Iraq,EMRO,5173,708951,25,13483
+2021-03-05,IQ,Iraq,EMRO,5043,713994,24,13507
+2021-03-06,IQ,Iraq,EMRO,5127,719121,30,13537
+2021-03-07,IQ,Iraq,EMRO,4068,723189,11,13548
+2021-03-08,IQ,Iraq,EMRO,3359,726548,24,13572
+2021-03-09,IQ,Iraq,EMRO,4468,731016,24,13596
+2021-03-10,IQ,Iraq,EMRO,4610,735626,22,13618
+2021-03-11,IQ,Iraq,EMRO,4846,740472,27,13645
+2021-03-12,IQ,Iraq,EMRO,5170,745642,26,13671
+2021-03-13,IQ,Iraq,EMRO,4622,750264,25,13696
+2021-03-14,IQ,Iraq,EMRO,4054,754318,23,13719
+2021-03-15,IQ,Iraq,EMRO,3866,758184,32,13751
+2021-03-16,IQ,Iraq,EMRO,4901,763085,37,13788
+2021-03-17,IQ,Iraq,EMRO,5267,768352,39,13827
+2021-03-18,IQ,Iraq,EMRO,5663,774015,33,13860
+2021-03-19,IQ,Iraq,EMRO,5443,779458,36,13896
+2021-03-20,IQ,Iraq,EMRO,5258,784716,41,13937
+2021-03-21,IQ,Iraq,EMRO,4674,789390,32,13969
+2021-03-22,IQ,Iraq,EMRO,4502,793892,38,14007
+2021-03-23,IQ,Iraq,EMRO,4655,798547,29,14036
+2021-03-24,IQ,Iraq,EMRO,4494,803041,30,14066
+2021-03-25,IQ,Iraq,EMRO,6051,809092,29,14095
+2021-03-26,IQ,Iraq,EMRO,6513,815605,33,14128
+2021-03-27,IQ,Iraq,EMRO,6490,822095,29,14157
+2021-03-28,IQ,Iraq,EMRO,5062,827157,20,14177
+2021-03-29,IQ,Iraq,EMRO,5271,832428,35,14212
+2021-03-30,IQ,Iraq,EMRO,5837,838265,37,14249
+2021-03-31,IQ,Iraq,EMRO,5995,844260,37,14286
+2021-04-01,IQ,Iraq,EMRO,6664,850924,37,14323
+2021-04-02,IQ,Iraq,EMRO,6015,856939,37,14360
+2021-04-03,IQ,Iraq,EMRO,5882,862821,30,14390
+2021-04-04,IQ,Iraq,EMRO,5379,868200,40,14430
+2021-04-05,IQ,Iraq,EMRO,5368,873568,33,14463
+2021-04-06,IQ,Iraq,EMRO,6423,879991,39,14502
+2021-04-07,IQ,Iraq,EMRO,7300,887291,33,14535
+2021-04-08,IQ,Iraq,EMRO,8331,895622,37,14572
+2021-04-09,IQ,Iraq,EMRO,7817,903439,34,14606
+2021-04-10,IQ,Iraq,EMRO,7937,911376,35,14641
+2021-04-11,IQ,Iraq,EMRO,6779,918155,37,14678
+2021-04-12,IQ,Iraq,EMRO,6791,924946,35,14713
+2021-04-13,IQ,Iraq,EMRO,7953,932899,44,14757
+2021-04-14,IQ,Iraq,EMRO,8179,941078,39,14796
+2021-04-15,IQ,Iraq,EMRO,7972,949050,40,14836
+2021-04-16,IQ,Iraq,EMRO,7810,956860,49,14885
+2021-04-17,IQ,Iraq,EMRO,7575,964435,30,14915
+2021-04-18,IQ,Iraq,EMRO,6552,970987,33,14948
+2021-04-19,IQ,Iraq,EMRO,6188,977175,33,14981
+2021-04-20,IQ,Iraq,EMRO,7775,984950,45,15026
+2021-04-21,IQ,Iraq,EMRO,8208,993158,34,15060
+2021-04-22,IQ,Iraq,EMRO,8696,1001854,38,15098
+2021-04-23,IQ,Iraq,EMRO,8450,1010304,30,15128
+2021-04-24,IQ,Iraq,EMRO,8017,1018321,46,15174
+2021-04-25,IQ,Iraq,EMRO,6967,1025288,43,15217
+2021-04-26,IQ,Iraq,EMRO,6034,1031322,40,15257
+2021-04-27,IQ,Iraq,EMRO,6536,1037858,46,15303
+2021-04-28,IQ,Iraq,EMRO,7152,1045010,45,15348
+2021-04-29,IQ,Iraq,EMRO,6858,1051868,44,15392
+2021-04-30,IQ,Iraq,EMRO,6926,1058794,41,15433
+2021-05-01,IQ,Iraq,EMRO,6405,1065199,32,15465
+2021-05-02,IQ,Iraq,EMRO,5167,1070366,33,15498
+2021-05-03,IQ,Iraq,EMRO,4564,1074930,38,15536
+2021-05-04,IQ,Iraq,EMRO,5068,1079998,30,15566
+2021-05-05,IQ,Iraq,EMRO,6143,1086141,42,15608
+2021-05-06,IQ,Iraq,EMRO,5813,1091954,32,15640
+2021-05-07,IQ,Iraq,EMRO,6233,1098187,33,15673
+2021-05-08,IQ,Iraq,EMRO,5763,1103950,29,15702
+2021-05-09,IQ,Iraq,EMRO,4608,1108558,39,15741
+2021-05-10,IQ,Iraq,EMRO,4167,1112725,30,15771
+2021-05-11,IQ,Iraq,EMRO,4902,1117627,29,15800
+2021-05-12,IQ,Iraq,EMRO,5287,1122914,34,15834
+2021-05-13,IQ,Iraq,EMRO,4666,1127580,21,15855
+2021-05-14,IQ,Iraq,EMRO,4512,1132092,28,15883
+2021-05-15,IQ,Iraq,EMRO,2767,1134859,27,15910
+2021-05-16,IQ,Iraq,EMRO,2058,1136917,20,15930
+2021-05-17,IQ,Iraq,EMRO,2456,1139373,26,15956
+2021-05-18,IQ,Iraq,EMRO,3552,1142925,41,15997
+2021-05-19,IQ,Iraq,EMRO,4023,1146948,32,16029
+2021-05-20,IQ,Iraq,EMRO,4609,1151557,40,16069
+2021-05-21,IQ,Iraq,EMRO,4580,1156137,33,16102
+2021-05-22,IQ,Iraq,EMRO,4357,1160494,35,16137
+2021-05-23,IQ,Iraq,EMRO,3655,1164149,21,16158
+2021-05-24,IQ,Iraq,EMRO,3791,1167940,32,16190
+2021-05-25,IQ,Iraq,EMRO,4102,1172042,24,16214
+2021-05-26,IQ,Iraq,EMRO,4938,1176980,27,16241
+2021-05-27,IQ,Iraq,EMRO,4718,1181698,26,16267
+2021-05-28,IQ,Iraq,EMRO,4611,1186309,22,16289
+2021-05-29,IQ,Iraq,EMRO,4042,1190351,22,16311
+2021-05-30,IQ,Iraq,EMRO,3257,1193608,23,16334
+2021-05-31,IQ,Iraq,EMRO,3474,1197082,17,16351
+2021-06-01,IQ,Iraq,EMRO,4270,1201352,24,16375
+2021-06-02,IQ,Iraq,EMRO,4170,1205522,30,16405
+2021-06-03,IQ,Iraq,EMRO,4583,1210105,31,16436
+2021-06-04,IQ,Iraq,EMRO,4262,1214367,26,16462
+2021-06-05,IQ,Iraq,EMRO,4157,1218524,26,16488
+2021-06-06,IQ,Iraq,EMRO,3154,1221678,30,16518
+2021-06-07,IQ,Iraq,EMRO,3314,1224992,20,16538
+2021-06-08,IQ,Iraq,EMRO,4129,1229121,28,16566
+2021-06-09,IQ,Iraq,EMRO,4119,1233240,23,16589
+2021-06-10,IQ,Iraq,EMRO,4616,1237856,25,16614
+2021-06-11,IQ,Iraq,EMRO,4684,1242540,34,16648
+2021-06-12,IQ,Iraq,EMRO,4320,1246860,20,16668
+2021-06-13,IQ,Iraq,EMRO,3831,1250691,22,16690
+2021-06-14,IQ,Iraq,EMRO,3952,1254643,15,16705
+2021-06-15,IQ,Iraq,EMRO,5040,1259683,31,16736
+2021-06-16,IQ,Iraq,EMRO,4618,1264301,26,16762
+2021-06-17,IQ,Iraq,EMRO,5139,1269440,19,16781
+2021-06-18,IQ,Iraq,EMRO,5189,1274629,30,16811
+2021-06-19,IQ,Iraq,EMRO,5068,1279697,23,16834
+2021-06-20,IQ,Iraq,EMRO,3608,1283305,26,16860
+2021-06-21,IQ,Iraq,EMRO,4160,1287465,25,16885
+2021-06-22,IQ,Iraq,EMRO,5235,1292700,25,16910
+2021-06-23,IQ,Iraq,EMRO,6003,1298703,25,16935
+2021-06-24,IQ,Iraq,EMRO,6297,1305000,33,16968
+2021-06-25,IQ,Iraq,EMRO,6093,1311093,31,16999
+2021-06-26,IQ,Iraq,EMRO,5325,1316418,34,17033
+2021-06-27,IQ,Iraq,EMRO,4814,1321232,28,17061
+2021-06-28,IQ,Iraq,EMRO,4468,1325700,30,17091
+2021-06-29,IQ,Iraq,EMRO,6346,1332046,30,17121
+2021-06-30,IQ,Iraq,EMRO,6558,1338604,35,17156
+2021-07-01,IQ,Iraq,EMRO,7300,1345904,30,17186
+2021-07-02,IQ,Iraq,EMRO,7554,1353458,30,17216
+2021-07-03,IQ,Iraq,EMRO,6378,1359836,40,17256
+2021-07-04,IQ,Iraq,EMRO,5375,1365211,25,17281
+2021-07-05,IQ,Iraq,EMRO,6264,1371475,35,17316
+2021-07-06,IQ,Iraq,EMRO,8030,1379505,29,17345
+2021-07-07,IQ,Iraq,EMRO,8818,1388323,31,17376
+2021-07-08,IQ,Iraq,EMRO,8777,1397100,37,17413
+2021-07-09,IQ,Iraq,EMRO,9189,1406289,31,17444
+2021-07-10,IQ,Iraq,EMRO,8636,1414925,32,17476
+2021-07-11,IQ,Iraq,EMRO,6821,1421746,39,17515
+2021-07-12,IQ,Iraq,EMRO,7616,1429362,33,17548
+2021-07-13,IQ,Iraq,EMRO,9149,1438511,44,17592
+2021-07-14,IQ,Iraq,EMRO,9046,1447557,38,17630
+2021-07-15,IQ,Iraq,EMRO,9635,1457192,47,17677
+2021-07-16,IQ,Iraq,EMRO,9337,1466529,30,17707
+2021-07-17,IQ,Iraq,EMRO,8336,1474865,44,17751
+2021-07-18,IQ,Iraq,EMRO,8149,1483014,38,17789
+2021-07-19,IQ,Iraq,EMRO,8698,1491712,41,17830
+2021-07-20,IQ,Iraq,EMRO,9883,1501595,62,17892
+2021-07-21,IQ,Iraq,EMRO,8922,1510517,59,17951
+2021-07-22,IQ,Iraq,EMRO,8320,1518837,69,18020
+2021-07-23,IQ,Iraq,EMRO,8106,1526943,81,18101
+2021-07-24,IQ,Iraq,EMRO,8905,1535848,66,18167
+2021-07-25,IQ,Iraq,EMRO,7653,1543501,65,18232
+2021-07-26,IQ,Iraq,EMRO,9147,1552648,55,18287
+2021-07-27,IQ,Iraq,EMRO,12180,1564828,60,18347
+2021-07-28,IQ,Iraq,EMRO,12185,1577013,71,18418
+2021-07-29,IQ,Iraq,EMRO,13515,1590528,66,18484
+2021-07-30,IQ,Iraq,EMRO,13259,1603787,49,18533
+2021-07-31,IQ,Iraq,EMRO,12597,1616384,62,18595
+2021-08-01,IQ,Iraq,EMRO,10215,1626599,62,18657
+2021-08-02,IQ,Iraq,EMRO,9394,1635993,77,18734
+2021-08-03,IQ,Iraq,EMRO,12734,1648727,68,18802
+2021-08-04,IQ,Iraq,EMRO,11644,1660371,63,18865
+2021-08-05,IQ,Iraq,EMRO,12713,1673084,73,18938
+2021-08-06,IQ,Iraq,EMRO,11871,1684955,62,19000
+2021-08-07,IQ,Iraq,EMRO,11435,1696390,87,19087
+2021-08-08,IQ,Iraq,EMRO,7973,1704363,59,19146
+2021-08-09,IQ,Iraq,EMRO,8346,1712709,57,19203
+2021-08-10,IQ,Iraq,EMRO,9619,1722328,67,19270
+2021-08-11,IQ,Iraq,EMRO,9970,1732298,66,19336
+2021-08-12,IQ,Iraq,EMRO,8635,1740933,66,19402
+2021-08-13,IQ,Iraq,EMRO,10243,1751176,64,19466
+2021-08-14,IQ,Iraq,EMRO,9967,1761143,75,19541
+2021-08-15,IQ,Iraq,EMRO,7610,1768753,65,19606
+2021-08-16,IQ,Iraq,EMRO,7011,1775764,66,19672
+2021-08-17,IQ,Iraq,EMRO,8830,1784594,68,19740
+2021-08-18,IQ,Iraq,EMRO,8778,1793372,75,19815
+2021-08-19,IQ,Iraq,EMRO,7992,1801364,71,19886
+2021-08-20,IQ,Iraq,EMRO,8012,1809376,72,19958
+2021-08-21,IQ,Iraq,EMRO,6121,1815497,67,20025
+2021-08-22,IQ,Iraq,EMRO,3958,1819455,85,20110
+2021-08-23,IQ,Iraq,EMRO,5634,1825089,74,20184
+2021-08-24,IQ,Iraq,EMRO,7151,1832240,78,20262
+2021-08-25,IQ,Iraq,EMRO,7670,1839910,75,20337
+2021-08-26,IQ,Iraq,EMRO,7787,1847697,73,20410
+2021-08-27,IQ,Iraq,EMRO,8084,1855781,70,20480
+2021-08-28,IQ,Iraq,EMRO,7202,1862983,79,20559
+2021-08-29,IQ,Iraq,EMRO,5369,1868352,73,20632
+2021-08-30,IQ,Iraq,EMRO,6083,1874435,67,20699
+2021-08-31,IQ,Iraq,EMRO,6778,1881213,65,20764
+2021-09-01,IQ,Iraq,EMRO,6937,1888150,66,20830
+2021-09-02,IQ,Iraq,EMRO,7309,1895459,48,20878
+2021-09-03,IQ,Iraq,EMRO,6948,1902407,56,20934
+2021-09-04,IQ,Iraq,EMRO,5672,1908079,60,20994
+2021-09-05,IQ,Iraq,EMRO,4316,1912395,48,21042
+2021-09-06,IQ,Iraq,EMRO,4897,1917292,58,21100
+2021-09-07,IQ,Iraq,EMRO,5650,1922942,62,21162
+2021-09-08,IQ,Iraq,EMRO,5988,1928930,58,21220
+2021-09-09,IQ,Iraq,EMRO,5405,1934335,62,21282
+2021-09-10,IQ,Iraq,EMRO,5073,1939408,51,21333
+2021-09-11,IQ,Iraq,EMRO,4717,1944125,61,21394
+2021-09-12,IQ,Iraq,EMRO,3086,1947211,51,21445
+2021-09-13,IQ,Iraq,EMRO,3554,1950765,51,21496
+2021-09-14,IQ,Iraq,EMRO,4204,1954969,54,21550
+2021-09-15,IQ,Iraq,EMRO,4400,1959369,46,21596
+2021-09-16,IQ,Iraq,EMRO,3895,1963264,35,21631
+2021-09-17,IQ,Iraq,EMRO,3923,1967187,52,21683
+2021-09-18,IQ,Iraq,EMRO,3559,1970746,56,21739
+2021-09-19,IQ,Iraq,EMRO,1959,1972705,36,21775
+2021-09-20,IQ,Iraq,EMRO,2515,1975220,47,21822
+2021-09-21,IQ,Iraq,EMRO,3192,1978412,47,21869
+2021-09-22,IQ,Iraq,EMRO,3081,1981493,42,21911
+2021-09-23,IQ,Iraq,EMRO,2906,1984399,38,21949
+2021-09-24,IQ,Iraq,EMRO,2953,1987352,44,21993
+2021-09-25,IQ,Iraq,EMRO,2964,1990316,46,22039
+2021-09-26,IQ,Iraq,EMRO,1312,1991628,33,22072
+2021-09-27,IQ,Iraq,EMRO,2139,1993767,38,22110
+2021-09-28,IQ,Iraq,EMRO,2447,1996214,32,22142
+2021-09-29,IQ,Iraq,EMRO,2401,1998615,45,22187
+2021-09-30,IQ,Iraq,EMRO,2254,2000869,34,22221
+2021-10-01,IQ,Iraq,EMRO,2434,2003303,39,22260
+2021-10-02,IQ,Iraq,EMRO,2688,2005991,42,22302
+2021-10-03,IQ,Iraq,EMRO,1236,2007227,42,22344
+2021-10-04,IQ,Iraq,EMRO,2451,2009678,21,22365
+2021-10-05,IQ,Iraq,EMRO,1956,2011634,27,22392
+2021-10-06,IQ,Iraq,EMRO,2470,2014104,28,22420
+2021-10-07,IQ,Iraq,EMRO,2519,2016623,20,22440
+2021-10-08,IQ,Iraq,EMRO,2044,2018667,33,22473
+2021-10-09,IQ,Iraq,EMRO,2215,2020882,36,22509
+2021-10-10,IQ,Iraq,EMRO,1227,2022109,28,22537
+2021-10-11,IQ,Iraq,EMRO,1652,2023761,26,22563
+2021-10-12,IQ,Iraq,EMRO,944,2024705,28,22591
+2021-10-13,IQ,Iraq,EMRO,1644,2026349,29,22620
+2021-10-14,IQ,Iraq,EMRO,1766,2028115,35,22655
+2021-10-15,IQ,Iraq,EMRO,2383,2030498,26,22681
+2021-10-16,IQ,Iraq,EMRO,2162,2032660,32,22713
+2021-10-17,IQ,Iraq,EMRO,1077,2033737,25,22738
+2021-10-18,IQ,Iraq,EMRO,1716,2035453,18,22756
+2021-10-19,IQ,Iraq,EMRO,1559,2037012,29,22785
+2021-10-20,IQ,Iraq,EMRO,1835,2038847,25,22810
+2021-10-21,IQ,Iraq,EMRO,1388,2040235,26,22836
+2021-10-22,IQ,Iraq,EMRO,1882,2042117,39,22875
+2021-10-23,IQ,Iraq,EMRO,1846,2043963,26,22901
+2021-10-24,IQ,Iraq,EMRO,1064,2045027,36,22937
+2021-10-25,IQ,Iraq,EMRO,1247,2046274,24,22961
+2021-10-26,IQ,Iraq,EMRO,1537,2047811,32,22993
+2021-10-27,IQ,Iraq,EMRO,1429,2049240,31,23024
+2021-10-28,IQ,Iraq,EMRO,1412,2050652,37,23061
+2021-10-29,IQ,Iraq,EMRO,1471,2052123,22,23083
+2021-10-30,IQ,Iraq,EMRO,1397,2053520,28,23111
+2021-10-31,IQ,Iraq,EMRO,682,2054202,27,23138
+2021-11-01,IQ,Iraq,EMRO,1046,2055248,32,23170
+2021-11-02,IQ,Iraq,EMRO,1153,2056401,26,23196
+2021-11-03,IQ,Iraq,EMRO,1315,2057716,27,23223
+2021-11-04,IQ,Iraq,EMRO,1198,2058914,25,23248
+2021-11-05,IQ,Iraq,EMRO,1152,2060066,23,23271
+2021-11-06,IQ,Iraq,EMRO,1156,2061222,26,23297
+2021-11-07,IQ,Iraq,EMRO,717,2061939,22,23319
+2021-11-08,IQ,Iraq,EMRO,924,2062863,25,23344
+2021-11-09,IQ,Iraq,EMRO,1148,2064011,28,23372
+2021-11-10,IQ,Iraq,EMRO,1116,2065127,27,23399
+2021-11-11,IQ,Iraq,EMRO,915,2066042,16,23415
+2021-11-12,IQ,Iraq,EMRO,863,2066905,30,23445
+2021-11-13,IQ,Iraq,EMRO,892,2067797,26,23471
+2021-11-14,IQ,Iraq,EMRO,591,2068388,12,23483
+2021-11-15,IQ,Iraq,EMRO,859,2069247,20,23503
+2021-11-16,IQ,Iraq,EMRO,829,2070076,33,23536
+2021-11-17,IQ,Iraq,EMRO,807,2070883,26,23562
+2021-11-18,IQ,Iraq,EMRO,806,2071689,18,23580
+2021-11-19,IQ,Iraq,EMRO,789,2072478,27,23607
+2021-11-20,IQ,Iraq,EMRO,789,2073267,21,23628
+2021-11-21,IQ,Iraq,EMRO,568,2073835,14,23642
+2021-11-22,IQ,Iraq,EMRO,584,2074419,23,23665
+2021-11-23,IQ,Iraq,EMRO,829,2075248,21,23686
+2021-11-24,IQ,Iraq,EMRO,898,2076146,26,23712
+2021-11-25,IQ,Iraq,EMRO,776,2076922,13,23725
+2021-11-26,IQ,Iraq,EMRO,743,2077665,23,23748
+2021-11-27,IQ,Iraq,EMRO,856,2078521,17,23765
+2021-11-28,IQ,Iraq,EMRO,563,2079084,7,23772
+2021-11-29,IQ,Iraq,EMRO,538,2079622,21,23793
+2021-11-30,IQ,Iraq,EMRO,826,2080448,14,23807
+2021-12-01,IQ,Iraq,EMRO,724,2081172,13,23820
+2021-12-02,IQ,Iraq,EMRO,889,2082061,24,23844
+2021-12-03,IQ,Iraq,EMRO,713,2082774,15,23859
+2021-12-04,IQ,Iraq,EMRO,741,2083515,8,23867
+2021-12-05,IQ,Iraq,EMRO,374,2083889,6,23873
+2021-12-06,IQ,Iraq,EMRO,457,2084346,12,23885
+2021-12-07,IQ,Iraq,EMRO,615,2084961,18,23903
+2021-12-08,IQ,Iraq,EMRO,625,2085586,16,23919
+2021-12-09,IQ,Iraq,EMRO,606,2086192,12,23931
+2021-12-10,IQ,Iraq,EMRO,510,2086702,12,23943
+2021-12-11,IQ,Iraq,EMRO,545,2087247,16,23959
+2021-12-12,IQ,Iraq,EMRO,250,2087497,6,23965
+2021-12-13,IQ,Iraq,EMRO,340,2087837,13,23978
+2021-12-14,IQ,Iraq,EMRO,522,2088359,16,23994
+2021-12-15,IQ,Iraq,EMRO,474,2088833,13,24007
+2021-12-16,IQ,Iraq,EMRO,426,2089259,10,24017
+2021-12-17,IQ,Iraq,EMRO,410,2089669,13,24030
+2021-12-18,IQ,Iraq,EMRO,357,2090026,12,24042
+2021-12-19,IQ,Iraq,EMRO,182,2090208,9,24051
+2021-12-20,IQ,Iraq,EMRO,272,2090480,12,24063
+2021-12-21,IQ,Iraq,EMRO,364,2090844,11,24074
+2021-12-22,IQ,Iraq,EMRO,336,2091180,13,24087
+2021-12-23,IQ,Iraq,EMRO,342,2091522,8,24095
+2021-12-24,IQ,Iraq,EMRO,312,2091834,13,24108
+2021-12-25,IQ,Iraq,EMRO,322,2092156,7,24115
+2021-12-26,IQ,Iraq,EMRO,156,2092312,7,24122
+2021-12-27,IQ,Iraq,EMRO,172,2092484,8,24130
+2021-12-28,IQ,Iraq,EMRO,166,2092650,9,24139
+2021-12-29,IQ,Iraq,EMRO,225,2092875,7,24146
+2021-12-30,IQ,Iraq,EMRO,261,2093136,5,24151
+2021-12-31,IQ,Iraq,EMRO,300,2093436,3,24154
+
